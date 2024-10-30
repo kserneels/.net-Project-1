@@ -1,0 +1,559 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\BookScanner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|d:\\.net\\bookscanner\\views\\booknewdetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|solutionrelative:views\\booknewdetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|d:\\.net\\bookscanner\\views\\booknewdetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|solutionrelative:views\\booknewdetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|d:\\.net\\bookscanner\\resources\\images\\star_empty.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|solutionrelative:resources\\images\\star_empty.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|d:\\.net\\bookscanner\\views\\bookdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|solutionrelative:views\\bookdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|d:\\.net\\bookscanner\\views\\bookdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|solutionrelative:views\\bookdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|d:\\.net\\bookscanner\\views\\newbookpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|solutionrelative:views\\newbookpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|d:\\.net\\bookscanner\\views\\newbookpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|solutionrelative:views\\newbookpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|d:\\.net\\bookscanner\\views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|solutionrelative:views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|d:\\.net\\bookscanner\\views\\reviewspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|solutionrelative:views\\reviewspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|d:\\.net\\bookscanner\\views\\reviewspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|solutionrelative:views\\reviewspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|d:\\.net\\bookscanner\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|solutionrelative:views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|d:\\.net\\bookscanner\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|d:\\.net\\bookscanner\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|d:\\.net\\bookscanner\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|d:\\.net\\bookscanner\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|d:\\.net\\bookscanner\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|d:\\.net\\bookscanner\\views\\infopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|solutionrelative:views\\infopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|d:\\.net\\bookscanner\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|solutionrelative:platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|d:\\.net\\bookscanner\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|solutionrelative:platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|d:\\.net\\bookscanner\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|solutionrelative:platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|d:\\.net\\bookscanner\\platforms\\android\\resources\\values\\colors.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|solutionrelative:platforms\\android\\resources\\values\\colors.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|d:\\.net\\bookscanner\\models\\bigfiveanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|solutionrelative:models\\bigfiveanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|d:\\.net\\bookscanner\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|d:\\.net\\bookscanner\\services\\customvisionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|solutionrelative:services\\customvisionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|d:\\.net\\bookscanner\\services\\photoimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|solutionrelative:services\\photoimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|d:\\.net\\bookscanner\\viewmodels\\iinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|solutionrelative:viewmodels\\iinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|d:\\.net\\bookscanner\\viewmodels\\infoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|solutionrelative:viewmodels\\infoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|d:\\.net\\bookscanner\\bookscanner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|solutionrelative:bookscanner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|d:\\.net\\bookscanner\\platforms\\windows\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|solutionrelative:platforms\\windows\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|d:\\.net\\bookscanner\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|d:\\.net\\bookscanner\\views\\infopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|solutionrelative:views\\infopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|d:\\.net\\bookscanner\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2340D3EC-A73A-4847-AB39-5488A7B2E60F}|BookScanner.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 87,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "star_empty.svg",
+              "DocumentMoniker": "D:\\.net\\BookScanner\\Resources\\Images\\star_empty.svg",
+              "RelativeDocumentMoniker": "Resources\\Images\\star_empty.svg",
+              "ToolTip": "D:\\.net\\BookScanner\\Resources\\Images\\star_empty.svg",
+              "RelativeToolTip": "Resources\\Images\\star_empty.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAB/AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-10-30T18:27:25.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "D:\\.net\\BookScanner\\Views\\HomePage.xaml",
+              "RelativeDocumentMoniker": "Views\\HomePage.xaml",
+              "ToolTip": "D:\\.net\\BookScanner\\Views\\HomePage.xaml",
+              "RelativeToolTip": "Views\\HomePage.xaml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T16:03:25.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReviewsPage.xaml.cs",
+              "DocumentMoniker": "D:\\.net\\BookScanner\\Views\\ReviewsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ReviewsPage.xaml.cs",
+              "ToolTip": "D:\\.net\\BookScanner\\Views\\ReviewsPage.xaml.cs",
+              "RelativeToolTip": "Views\\ReviewsPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:02:29.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReviewsPage.xaml",
+              "DocumentMoniker": "D:\\.net\\BookScanner\\Views\\ReviewsPage.xaml",
+              "RelativeDocumentMoniker": "Views\\ReviewsPage.xaml",
+              "ToolTip": "D:\\.net\\BookScanner\\Views\\ReviewsPage.xaml",
+              "RelativeToolTip": "Views\\ReviewsPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T16:02:20.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewBookPage.xaml.cs",
+              "DocumentMoniker": "D:\\.net\\BookScanner\\Views\\NewBookPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\NewBookPage.xaml.cs",
+              "ToolTip": "D:\\.net\\BookScanner\\Views\\NewBookPage.xaml.cs",
+              "RelativeToolTip": "Views\\NewBookPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:01:26.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewBookPage.xaml",
+              "DocumentMoniker": "D:\\.net\\BookScanner\\Views\\NewBookPage.xaml",
+              "RelativeDocumentMoniker": "Views\\NewBookPage.xaml",
+              "ToolTip": "D:\\.net\\BookScanner\\Views\\NewBookPage.xaml",
+              "RelativeToolTip": "Views\\NewBookPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T16:00:47.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\.net\\BookScanner\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\.net\\BookScanner\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-30T15:38:15.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookNewDetailsPage.xaml.cs",
+              "DocumentMoniker": "D:\\.net\\BookScanner\\Views\\BookNewDetailsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\BookNewDetailsPage.xaml.cs",
+              "ToolTip": "D:\\.net\\BookScanner\\Views\\BookNewDetailsPage.xaml.cs",
+              "RelativeToolTip": "Views\\BookNewDetailsPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:10:06.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "D:\\.net\\BookScanner\\Views\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\HomePage.xaml.cs",
+              "ToolTip": "D:\\.net\\BookScanner\\Views\\HomePage.xaml.cs",
+              "RelativeToolTip": "Views\\HomePage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:03:34.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BookScanner.csproj",
+              "DocumentMoniker": "D:\\.net\\BookScanner\\BookScanner.csproj",
+              "RelativeDocumentMoniker": "BookScanner.csproj",
+              "ToolTip": "D:\\.net\\BookScanner\\BookScanner.csproj",
+              "RelativeToolTip": "BookScanner.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-30T15:21:16.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\.net\\BookScanner\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\.net\\BookScanner\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:22:58.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookDetailPage.xaml.cs",
+              "DocumentMoniker": "D:\\.net\\BookScanner\\Views\\BookDetailPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\BookDetailPage.xaml.cs",
+              "ToolTip": "D:\\.net\\BookScanner\\Views\\BookDetailPage.xaml.cs",
+              "RelativeToolTip": "Views\\BookDetailPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:41:21.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookNewDetailsPage.xaml",
+              "DocumentMoniker": "D:\\.net\\BookScanner\\Views\\BookNewDetailsPage.xaml",
+              "RelativeDocumentMoniker": "Views\\BookNewDetailsPage.xaml",
+              "ToolTip": "D:\\.net\\BookScanner\\Views\\BookNewDetailsPage.xaml",
+              "RelativeToolTip": "Views\\BookNewDetailsPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T16:09:57.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookDetailPage.xaml",
+              "DocumentMoniker": "D:\\.net\\BookScanner\\Views\\BookDetailPage.xaml",
+              "RelativeDocumentMoniker": "Views\\BookDetailPage.xaml",
+              "ToolTip": "D:\\.net\\BookScanner\\Views\\BookDetailPage.xaml",
+              "RelativeToolTip": "Views\\BookDetailPage.xaml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T16:41:06.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BigFiveAnimal.cs",
+              "DocumentMoniker": "D:\\.net\\BookScanner\\Models\\BigFiveAnimal.cs",
+              "RelativeDocumentMoniker": "Models\\BigFiveAnimal.cs",
+              "ToolTip": "D:\\.net\\BookScanner\\Models\\BigFiveAnimal.cs",
+              "RelativeToolTip": "Models\\BigFiveAnimal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:38:19.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "D:\\.net\\BookScanner\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "D:\\.net\\BookScanner\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:15:58.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\.net\\BookScanner\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "D:\\.net\\BookScanner\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-23T15:15:56.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\.net\\BookScanner\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\.net\\BookScanner\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-23T15:15:51.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\.net\\BookScanner\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "D:\\.net\\BookScanner\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-23T14:43:25.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "colors.xml",
+              "DocumentMoniker": "D:\\.net\\BookScanner\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "RelativeDocumentMoniker": "Platforms\\Android\\Resources\\values\\colors.xml",
+              "ToolTip": "D:\\.net\\BookScanner\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "RelativeToolTip": "Platforms\\Android\\Resources\\values\\colors.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-10-30T15:38:31.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "D:\\.net\\BookScanner\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "D:\\.net\\BookScanner\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-10-30T15:38:32.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InfoPage.xaml",
+              "DocumentMoniker": "D:\\.net\\BookScanner\\Views\\InfoPage.xaml",
+              "RelativeDocumentMoniker": "Views\\InfoPage.xaml",
+              "ToolTip": "D:\\.net\\BookScanner\\Views\\InfoPage.xaml",
+              "RelativeToolTip": "Views\\InfoPage.xaml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAkwGIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-23T15:17:43.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "D:\\.net\\BookScanner\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "D:\\.net\\BookScanner\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:38:34.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "D:\\.net\\BookScanner\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "D:\\.net\\BookScanner\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:45:58.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "app.manifest",
+              "DocumentMoniker": "D:\\.net\\BookScanner\\Platforms\\Windows\\app.manifest",
+              "RelativeDocumentMoniker": "Platforms\\Windows\\app.manifest",
+              "ToolTip": "D:\\.net\\BookScanner\\Platforms\\Windows\\app.manifest",
+              "RelativeToolTip": "Platforms\\Windows\\app.manifest",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2024-10-30T15:23:27.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "InfoViewModel.cs",
+              "DocumentMoniker": "D:\\.net\\BookScanner\\ViewModels\\InfoViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\InfoViewModel.cs",
+              "ToolTip": "D:\\.net\\BookScanner\\ViewModels\\InfoViewModel.cs",
+              "RelativeToolTip": "ViewModels\\InfoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:08:08.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IInfoViewModel.cs",
+              "DocumentMoniker": "D:\\.net\\BookScanner\\ViewModels\\IInfoViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\IInfoViewModel.cs",
+              "ToolTip": "D:\\.net\\BookScanner\\ViewModels\\IInfoViewModel.cs",
+              "RelativeToolTip": "ViewModels\\IInfoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:04:17.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PhotoImageService.cs",
+              "DocumentMoniker": "D:\\.net\\BookScanner\\Services\\PhotoImageService.cs",
+              "RelativeDocumentMoniker": "Services\\PhotoImageService.cs",
+              "ToolTip": "D:\\.net\\BookScanner\\Services\\PhotoImageService.cs",
+              "RelativeToolTip": "Services\\PhotoImageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:57:16.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomVisionService.cs",
+              "DocumentMoniker": "D:\\.net\\BookScanner\\Services\\CustomVisionService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomVisionService.cs",
+              "ToolTip": "D:\\.net\\BookScanner\\Services\\CustomVisionService.cs",
+              "RelativeToolTip": "Services\\CustomVisionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:52:33.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\.net\\BookScanner\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "D:\\.net\\BookScanner\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:43:20.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "InfoPage.xaml.cs",
+              "DocumentMoniker": "D:\\.net\\BookScanner\\Views\\InfoPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\InfoPage.xaml.cs",
+              "ToolTip": "D:\\.net\\BookScanner\\Views\\InfoPage.xaml.cs",
+              "RelativeToolTip": "Views\\InfoPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:26:11.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\.net\\BookScanner\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "D:\\.net\\BookScanner\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:43:14.882Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

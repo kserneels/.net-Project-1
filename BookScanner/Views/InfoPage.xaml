@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BookScanner.Views.InfoPage"
+             xmlns:viewModels="clr-namespace:BookScanner.ViewModels"
+             xmlns:models="clr-namespace:BookScanner.Models"
+             x:DataType="viewModels:IInfoViewModel"
+             Title="BookScanner">
+	
+	<ContentPage.Content>
+		<ScrollView>
+			<StackLayout Padding="20" Spacing="10">
+				<Image Source="{Binding}"	Aspect="AspectFill"
+					HeightRequest="300"	WidthRequest="300" />
+
+				<HorizontalStackLayout Spacing="5"
+					HorizontalOptions="Center">
+					<Button Command="{Binding PickPhotoCommand}" HorizontalOptions="Start"
+						Text="Pick a picture" />
+					<Button Command="{Binding TakePhotoCommand}" HorizontalOptions="End"
+						Text="Take a picture" />
+					<ActivityIndicator  IsRunning="{Binding IsRunning}" />
+				</HorizontalStackLayout>
+
+				<Frame BorderColor="LightGray" CornerRadius="10" Padding="10"
+					   Margin="0,10,0,0">
+					<StackLayout>
+						<Label Text="{Binding ClassifiedAnimal.Name}" 
+							FontSize="Large" 
+							FontAttributes="Bold"  />
+
+						<Label Text="{Binding ClassifiedAnimal.Description}" 
+							Margin="0,10,0,0"
+							FontSize="Medium" 
+							TextColor="Gray" />
+					</StackLayout>
+				</Frame>
+
+				<Frame BorderColor="LightGray" CornerRadius="10" Padding="10">
+					<StackLayout>
+						<Label Text="Size" 
+                               FontSize="Medium" 
+                               FontAttributes="Bold" />
+						<Label Text="{Binding ClassifiedAnimal.Size.Weight}" 
+							   Margin="0,5,0,0"
+                               FontSize="Small" />
+						<Label Text="{Binding ClassifiedAnimal.Size.Height}" 
+                               FontSize="Small" />
+					</StackLayout>
+				</Frame>
+
+				<Frame BorderColor="LightGray" CornerRadius="10" Padding="10">
+					<StackLayout>
+						<Label Text="Social Structure" 
+                               FontSize="Medium" 
+                               FontAttributes="Bold" />
+						<Label Text="{Binding ClassifiedAnimal.SocialStructure}" 
+							   Margin="0,5,0,0"
+                               FontSize="Small" />
+					</StackLayout>
+				</Frame>
+
+				<Frame BorderColor="LightGray" CornerRadius="10" Padding="10">
+					<StackLayout>
+						<Label Text="Diet" 
+                               FontSize="Medium" 
+                               FontAttributes="Bold" />
+						<Label Text="{Binding ClassifiedAnimal.Diet}"
+							   Margin="0,5,0,0"
+                               FontSize="Small" />
+					</StackLayout>
+				</Frame>
+
+				<Frame BorderColor="LightGray" CornerRadius="10" Padding="10">
+					<StackLayout>
+						<Label Text="Territorial Behavior" 
+                               FontSize="Medium" 
+                               FontAttributes="Bold" />
+						<Label Text="{Binding ClassifiedAnimal.TerritorialBehavior}" 
+							   Margin="0,5,0,0"
+                               FontSize="Small" />
+					</StackLayout>
+				</Frame>
+
+				<Frame BorderColor="LightGray" CornerRadius="10" Padding="10">
+					<StackLayout>
+						<Label Text="Lifespan" 
+                               FontSize="Medium" 
+                               FontAttributes="Bold" />
+						<Label Text="{Binding ClassifiedAnimal.Lifespan}" 
+							   Margin="0,5,0,0"
+                               FontSize="Small" />
+					</StackLayout>
+				</Frame>
+			</StackLayout>
+		</ScrollView>
+	</ContentPage.Content>
+	
+</ContentPage>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BookScanner.Views.HomePage"
+             BackgroundColor="#f5f5f5"
+             Title="Home">
+
+    <StackLayout VerticalOptions="Center" HorizontalOptions="Center" Padding="20">
+        <!-- Title -->
+        <Label Text="BookScanner"
+               FontSize="32"
+               FontAttributes="Bold"
+               HorizontalOptions="Center"
+               TextColor="#3b5998"/>
+
+        <Label Text="Your personal book management app"
+               FontSize="16"
+               HorizontalOptions="Center"
+               TextColor="#777777"
+               Margin="0,10,0,20"/>
+
+        <!-- New Book Button -->
+        <Button Text="New Book"
+                FontSize="18"
+                HorizontalOptions="FillAndExpand"
+                Margin="0,10"
+                BackgroundColor="#4CAF50"
+                TextColor="White"
+                CornerRadius="10"
+                HeightRequest="50"
+                Clicked="OnNewBookClicked"/>
+
+        <!-- Reviews Button -->
+        <Button Text="Reviews"
+                FontSize="18"
+                HorizontalOptions="FillAndExpand"
+                Margin="0,10"
+                BackgroundColor="#2196F3"
+                TextColor="White"
+                CornerRadius="10"
+                HeightRequest="50"
+                Clicked="OnReviewsClicked"/>
+    </StackLayout>
+</ContentPage>

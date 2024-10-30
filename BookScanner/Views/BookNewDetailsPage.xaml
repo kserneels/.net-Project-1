@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BookScanner.Views.BookDetailsPage"
+             Title="Book Details">
+
+    <StackLayout Padding="20">
+        <Label Text="Enter Book Details"
+               FontSize="24"
+               HorizontalOptions="Center"/>
+
+        <Label Text="Book Title:"/>
+        <Entry x:Name="TitleEntry" Placeholder="Enter book title"/>
+
+        <Label Text="Author:"/>
+        <Entry x:Name="AuthorEntry" Placeholder="Enter author name"/>
+
+        <Label Text="Release Date:"/>
+        <Entry x:Name="ReleaseDateEntry" Placeholder="Enter release date (YYYY-MM-DD)"/>
+
+        <!-- Rating Picker -->
+        <Label Text="Rating:"/>
+        <Picker x:Name="RatingPicker" Title="Select Rating">
+            <Picker.Items>
+                <x:String>Excellent</x:String>
+                <x:String>Good</x:String>
+                <x:String>Mediocre</x:String>
+                <x:String>Bad</x:String>
+            </Picker.Items>
+        </Picker>
+
+        <Label Text="Review:"/>
+        <Editor x:Name="ReviewEditor" Placeholder="Write your review" HeightRequest="100"/>
+
+        <Button Text="Add Book"
+                FontSize="18"
+                BackgroundColor="LightGreen"
+                TextColor="White"
+                CornerRadius="5"
+                Clicked="OnAddBookClicked"/>
+    </StackLayout>
+</ContentPage>

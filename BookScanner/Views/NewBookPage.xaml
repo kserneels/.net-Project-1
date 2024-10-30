@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BookScanner.Views.NewBookPage"
+             Title="New Book"
+             BackgroundColor="#ffffff">
+
+    <StackLayout Padding="20" Spacing="20">
+        <!-- Title Label -->
+        <Label Text="New Book Entry"
+               FontSize="32"
+               FontAttributes="Bold"
+               TextColor="#3b5998"
+               HorizontalOptions="Center"/>
+
+        <!-- Description Label -->
+        <Label Text="Please take a picture of the book cover to add it to your collection."
+               FontSize="18"
+               TextColor="#666666"
+               HorizontalOptions="Center"
+               LineBreakMode="WordWrap"
+               Padding="10"
+               Margin="0,0,0,10" />
+
+        <!-- Take Picture Button -->
+        <Button Text="Take Picture"
+                FontSize="20"
+                HorizontalOptions="Center"
+                Margin="0,10,0,0"
+                BackgroundColor="#3b5998"
+                TextColor="White"
+                CornerRadius="25"
+                Padding="10,5"
+                Clicked="OnTakePictureClicked"/>
+
+        <!-- Optional: Add a separator line -->
+        <BoxView HeightRequest="2" BackgroundColor="#e0e0e0" Margin="0,20"/>
+
+        <!-- Optional: Additional Instruction -->
+        <Label Text="After taking the picture, you can add details about the book."
+               FontSize="16"
+               TextColor="#333333"
+               HorizontalOptions="Center"
+               LineBreakMode="WordWrap"
+               Padding="10"
+               Margin="0,10,0,0" />
+    </StackLayout>
+</ContentPage>

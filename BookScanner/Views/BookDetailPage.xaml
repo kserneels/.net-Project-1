@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BookScanner.Views.BookDetailPage"
+             Title="{Binding BookTitle}"
+             BackgroundColor="#ffffff">
+
+    <ScrollView>
+        <StackLayout Padding="20" BackgroundColor="#ffffff">
+            <Label Text="{Binding BookTitle}"
+                   FontSize="36"
+                   FontAttributes="Bold"
+                   TextColor="#3b5998"
+                   HorizontalOptions="Center" />
+
+            <Label Text="by {Binding BookAuthor}"
+                   FontSize="24"
+                   TextColor="#666666"
+                   HorizontalOptions="Center"
+                   Margin="0,0,0,10"/>
+
+            <Label Text="Rating:"
+                   FontSize="20"
+                   FontAttributes="Bold"
+                   TextColor="#333333"/>
+
+            <Label Text="{Binding BookRating}"
+                   FontSize="20"
+                   TextColor="#3b5998"
+                   Margin="0,0,0,10"/>
+
+            <Label Text="Review:"
+                   FontSize="20"
+                   FontAttributes="Bold"
+                   TextColor="#333333"
+                   Margin="0,20,0,0" />
+
+            <!-- Wrap the review Label in a Frame for rounded corners -->
+            <Frame BackgroundColor="#f0f0f0"
+                   CornerRadius="5"
+                   Padding="10"
+                   Margin="0,5,0,10"
+                   HasShadow="True">
+                <Label Text="{Binding BookReview}"
+                       FontSize="18"
+                       TextColor="#333333"
+                       LineBreakMode="WordWrap" />
+            </Frame>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

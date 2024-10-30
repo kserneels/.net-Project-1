@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BookScanner.Views.ReviewsPage"
+             Title="Book Reviews"
+             BackgroundColor="#ffffff">
+
+    <ScrollView>
+        <StackLayout Padding="20">
+            <Label Text="Your Books"
+                   FontSize="32"
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center"
+                   TextColor="#3b5998"/>
+
+            <Grid x:Name="BookGrid" Padding="10" ColumnSpacing="10" RowSpacing="20">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+            </Grid>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
