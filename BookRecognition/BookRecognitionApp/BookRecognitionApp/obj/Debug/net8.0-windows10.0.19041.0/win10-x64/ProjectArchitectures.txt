@@ -1,0 +1,1 @@
+C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\BookRecognitionApp.csproj;x64

@@ -1,0 +1,3 @@
+﻿Hey moos normaal gebruikt het programma nu zeker Mvvm, ook is de back end api herschreven kijk dit ook zeker na.
+
+Probeer nog wat aanpassingen te doen die je denkt dat verkeerd zijn. Voorla kijken naar de reviewpagemodel en naar de navigatie service/homepagemodel

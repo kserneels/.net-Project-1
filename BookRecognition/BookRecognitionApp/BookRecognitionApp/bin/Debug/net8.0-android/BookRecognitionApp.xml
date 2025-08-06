@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BookRecognitionApp</name>
+    </assembly>
+    <members>
+        <member name="T:BookRecognitionApp.ViewModels.BookDetailViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:BookRecognitionApp.ViewModels.BookDetailViewModel.BookReview">
+            <inheritdoc cref="F:BookRecognitionApp.ViewModels.BookDetailViewModel.bookReview"/>
+        </member>
+        <member name="P:BookRecognitionApp.ViewModels.BookDetailViewModel.EditableRating">
+            <inheritdoc cref="F:BookRecognitionApp.ViewModels.BookDetailViewModel.editableRating"/>
+        </member>
+        <member name="P:BookRecognitionApp.ViewModels.BookDetailViewModel.EditableReview">
+            <inheritdoc cref="F:BookRecognitionApp.ViewModels.BookDetailViewModel.editableReview"/>
+        </member>
+        <member name="P:BookRecognitionApp.ViewModels.BookDetailViewModel.IsEditing">
+            <inheritdoc cref="F:BookRecognitionApp.ViewModels.BookDetailViewModel.isEditing"/>
+        </member>
+        <member name="F:BookRecognitionApp.ViewModels.BookDetailViewModel.goBackCommand">
+            <summary>The backing field for <see cref="P:BookRecognitionApp.ViewModels.BookDetailViewModel.GoBackCommand"/>.</summary>
+        </member>
+        <member name="P:BookRecognitionApp.ViewModels.BookDetailViewModel.GoBackCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:BookRecognitionApp.ViewModels.BookDetailViewModel.GoBackAsync"/>.</summary>
+        </member>
+        <member name="F:BookRecognitionApp.ViewModels.BookDetailViewModel.editOrSaveCommand">
+            <summary>The backing field for <see cref="P:BookRecognitionApp.ViewModels.BookDetailViewModel.EditOrSaveCommand"/>.</summary>
+        </member>
+        <member name="P:BookRecognitionApp.ViewModels.BookDetailViewModel.EditOrSaveCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:BookRecognitionApp.ViewModels.BookDetailViewModel.EditOrSave"/>.</summary>
+        </member>
+        <member name="F:BookRecognitionApp.ViewModels.BookDetailViewModel.cancelEditingCommand">
+            <summary>The backing field for <see cref="P:BookRecognitionApp.ViewModels.BookDetailViewModel.CancelEditingCommand"/>.</summary>
+        </member>
+        <member name="P:BookRecognitionApp.ViewModels.BookDetailViewModel.CancelEditingCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:BookRecognitionApp.ViewModels.BookDetailViewModel.CancelEditing"/>.</summary>
+        </member>
+        <member name="F:BookRecognitionApp.ViewModels.BookDetailViewModel.saveChangesCommand">
+            <summary>The backing field for <see cref="P:BookRecognitionApp.ViewModels.BookDetailViewModel.SaveChangesCommand"/>.</summary>
+        </member>
+        <member name="P:BookRecognitionApp.ViewModels.BookDetailViewModel.SaveChangesCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:BookRecognitionApp.ViewModels.BookDetailViewModel.SaveChangesAsync"/>.</summary>
+        </member>
+        <member name="F:BookRecognitionApp.ViewModels.BookDetailViewModel.deleteReviewCommand">
+            <summary>The backing field for <see cref="P:BookRecognitionApp.ViewModels.BookDetailViewModel.DeleteReviewCommand"/>.</summary>
+        </member>
+        <member name="P:BookRecognitionApp.ViewModels.BookDetailViewModel.DeleteReviewCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:BookRecognitionApp.ViewModels.BookDetailViewModel.DeleteReviewAsync"/>.</summary>
+        </member>
+        <member name="T:BookRecognitionApp.ViewModels.BookNewDetailsPageViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:BookRecognitionApp.ViewModels.BookNewDetailsPageViewModel.BookInfo">
+            <inheritdoc cref="F:BookRecognitionApp.ViewModels.BookNewDetailsPageViewModel.bookInfo"/>
+        </member>
+        <member name="P:BookRecognitionApp.ViewModels.BookNewDetailsPageViewModel.BookReview">
+            <inheritdoc cref="F:BookRecognitionApp.ViewModels.BookNewDetailsPageViewModel.bookReview"/>
+        </member>
+        <member name="P:BookRecognitionApp.ViewModels.BookNewDetailsPageViewModel.Rating">
+            <inheritdoc cref="F:BookRecognitionApp.ViewModels.BookNewDetailsPageViewModel.rating"/>
+        </member>
+        <member name="P:BookRecognitionApp.ViewModels.BookNewDetailsPageViewModel.Review">
+            <inheritdoc cref="F:BookRecognitionApp.ViewModels.BookNewDetailsPageViewModel.review"/>
+        </member>
+        <member name="M:BookRecognitionApp.ViewModels.BookNewDetailsPageViewModel.OnBookInfoChanged(BookInfo)">
+            <summary>Executes the logic for when <see cref="P:BookRecognitionApp.ViewModels.BookNewDetailsPageViewModel.BookInfo"/> just changed.</summary>
+            <param name="value">The new property value that was set.</param>
+            <remarks>This method is invoked right after the value of <see cref="P:BookRecognitionApp.ViewModels.BookNewDetailsPageViewModel.BookInfo"/> is changed.</remarks>
+        </member>
+        <member name="F:BookRecognitionApp.ViewModels.BookNewDetailsPageViewModel.addReviewCommand">
+            <summary>The backing field for <see cref="P:BookRecognitionApp.ViewModels.BookNewDetailsPageViewModel.AddReviewCommand"/>.</summary>
+        </member>
+        <member name="P:BookRecognitionApp.ViewModels.BookNewDetailsPageViewModel.AddReviewCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:BookRecognitionApp.ViewModels.BookNewDetailsPageViewModel.AddReviewAsync"/>.</summary>
+        </member>
+        <member name="T:BookRecognitionApp.ViewModels.HomePageViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="F:BookRecognitionApp.ViewModels.HomePageViewModel.navigateToNewBookPageCommand">
+            <summary>The backing field for <see cref="P:BookRecognitionApp.ViewModels.HomePageViewModel.NavigateToNewBookPageCommand"/>.</summary>
+        </member>
+        <member name="P:BookRecognitionApp.ViewModels.HomePageViewModel.NavigateToNewBookPageCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:BookRecognitionApp.ViewModels.HomePageViewModel.NavigateToNewBookPage"/>.</summary>
+        </member>
+        <member name="F:BookRecognitionApp.ViewModels.HomePageViewModel.navigateToReviewsPageCommand">
+            <summary>The backing field for <see cref="P:BookRecognitionApp.ViewModels.HomePageViewModel.NavigateToReviewsPageCommand"/>.</summary>
+        </member>
+        <member name="P:BookRecognitionApp.ViewModels.HomePageViewModel.NavigateToReviewsPageCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:BookRecognitionApp.ViewModels.HomePageViewModel.NavigateToReviewsPage"/>.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.BookReview">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "BookReview" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.EditableRating">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "EditableRating" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.EditableReview">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "EditableReview" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.IsEditing">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "IsEditing" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.BookInfo">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "BookInfo" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Rating">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Rating" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Review">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Review" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.BookReview">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "BookReview" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.EditableRating">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "EditableRating" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.EditableReview">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "EditableReview" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.IsEditing">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "IsEditing" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.BookInfo">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "BookInfo" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Rating">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Rating" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Review">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Review" generated properties.</summary>
+        </member>
+    </members>
+</doc>

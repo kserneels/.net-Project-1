@@ -1,0 +1,92 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:BookRecognitionApp.ViewModels"
+             xmlns:models="clr-namespace:BookRecognitionApp.Models"
+             x:Class="BookRecognitionApp.Views.ReviewsPage"
+             x:DataType="vm:ReviewsPageViewModel"
+             x:Name="RootPage"
+             Shell.NavBarIsVisible="False"
+             Shell.FlyoutBehavior="Disabled">
+
+
+    <Shell.BackButtonBehavior>
+        <BackButtonBehavior IsEnabled="False" IsVisible="False"/>
+    </Shell.BackButtonBehavior>
+
+    <ContentPage.Background>
+        <LinearGradientBrush>
+            <GradientStop Color="#E1DCC5" Offset="0.0" />
+            <GradientStop Color="#B0C4DE" Offset="1.0" />
+        </LinearGradientBrush>
+    </ContentPage.Background>
+
+    <StackLayout Padding="10">
+
+        <!-- Header with back button and title -->
+        <Grid ColumnSpacing="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <Button Text="Terug naar HomePagina"
+                    FontSize="18"
+                    BackgroundColor="#D32F2F"
+                    TextColor="White"
+                    HorizontalOptions="Start"
+                    VerticalOptions="Center"
+                    Command="{Binding GoBackCommand}" 
+                    Grid.Column="0"/>
+
+            <Label Text="Mijn boek reviews"
+                   TextColor="#3b5998"
+                   FontSize="40"
+                   HorizontalOptions="CenterAndExpand" 
+                   VerticalOptions="Center"
+                   Grid.Column="1"/>
+        </Grid>
+
+        <!-- Reviews list -->
+        <CollectionView ItemsSource="{Binding Reviews}">
+            <CollectionView.ItemsLayout>
+                <GridItemsLayout Orientation="Vertical" 
+                                 Span="{OnIdiom Phone=2, Tablet=3, Desktop=5}"
+                                 VerticalItemSpacing="8" 
+                                 HorizontalItemSpacing="8" />
+            </CollectionView.ItemsLayout>
+            <CollectionView.ItemTemplate>
+                <DataTemplate x:DataType="models:ReviewDisplayDto">
+                    <Frame Padding="4" BackgroundColor="#F2F2F2" 
+                           CornerRadius="8"
+                           HasShadow="True"
+                           Margin="5">
+                        <Frame.GestureRecognizers>
+                            <TapGestureRecognizer 
+                                Command="{Binding BindingContext.NavigateToDetailCommand, Source={x:Reference RootPage}}"
+                                CommandParameter="{Binding .}" />
+                        </Frame.GestureRecognizers>
+                        <StackLayout>
+                            <Image Source="{Binding CoverUrl}"
+                                   Aspect="AspectFill"
+                                   HeightRequest="150"
+                                   WidthRequest="100"
+                                   HorizontalOptions="Center" />
+                            <Label Text="{Binding Title}" 
+                                   FontSize="22" 
+                                   FontAttributes="Bold"
+                                   HorizontalOptions="Center"
+                                   TextColor="#000"
+                                   LineBreakMode="TailTruncation"
+                                   MaxLines="1" />
+                            <Label Text="{Binding Rating}" 
+                                   FontSize="20" 
+                                   TextColor="Orange"
+                                   HorizontalOptions="Center" />
+                        </StackLayout>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+    </StackLayout>
+</ContentPage>

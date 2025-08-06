@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewModels="clr-namespace:BookRecognitionApp.ViewModels"
+             x:Class="BookRecognitionApp.Views.NewBookPage"
+             Shell.NavBarIsVisible="False"
+             Shell.FlyoutBehavior="Disabled">
+
+    <!-- Gradient Background -->
+    <ContentPage.Background>
+        <LinearGradientBrush>
+            <GradientStop Color="#E1DCC5" Offset="0.0" />
+            <GradientStop Color="#B0C4DE" Offset="1.0" />
+        </LinearGradientBrush>
+    </ContentPage.Background>
+
+    <Shell.BackButtonBehavior>
+        <BackButtonBehavior IsEnabled="False" IsVisible="False"/>
+    </Shell.BackButtonBehavior>
+
+    <ContentPage.Content>
+        <StackLayout Padding="20" Spacing="20">
+            <!-- Header with Back Button and Title -->
+            <Grid Padding="10" ColumnSpacing="0">
+                <Grid.ColumnDefinitions>
+                    <!-- Kolom voor de back-knop, automatische breedte, maar vult niet meer dan nodig -->
+                    <ColumnDefinition Width="Auto" />
+
+                    <!-- Kolom voor de titel, neemt de resterende ruimte -->
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <!-- Terug-knop aan de linkerkant, met een grotere breedte in de eerste kolom -->
+                <Button Text="Terug"
+            FontSize="16"
+            BackgroundColor="#D32F2F"
+            TextColor="White"
+            CornerRadius="10"
+            Padding="8,5"
+            Command="{Binding BackCommand}" 
+            Grid.Column="0" 
+            VerticalOptions="Center"
+            HorizontalOptions="Fill"  
+                    />
+
+                    <!-- Titel gecentreerd in de tweede kolom -->
+                    <Label Text="Nieuw boek"
+           FontSize="28"
+           FontAttributes="Bold"
+           TextColor="#3b5998"
+           HorizontalOptions="CenterAndExpand"  
+                        VerticalOptions="Center"
+                        
+                        Grid.Column="1" />
+            </Grid>
+
+            <!-- Instruction Text -->
+            <Label Text="Maak een foto van de ISBN van het boek of kies een afbeelding om deze aan je collectie toe te voegen."
+                   FontSize="18"
+                   TextColor="#3b5998"
+                   HorizontalOptions="Center"
+                   LineBreakMode="WordWrap"
+                   Padding="10"
+                   Margin="0,10,0,20"
+                   HorizontalTextAlignment="Center" />
+
+            <!-- Card for Displaying Book Cover Image -->
+            <Frame BackgroundColor="White"
+                   CornerRadius="12"
+                   HasShadow="True"
+                   Padding="10"
+                   Margin="0,0,0,20"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center">
+                <Image Source="{Binding BookCoverImageSource}"
+                       HeightRequest="300"
+                       WidthRequest="200"
+                       HorizontalOptions="Center"
+                       Aspect="AspectFit"/>
+            </Frame>
+
+            <!-- Divider Line -->
+            <BoxView HeightRequest="2" BackgroundColor="#3b5998" Margin="0,20"/>
+
+            <!-- Buttons for Camera and Gallery -->
+            <StackLayout Orientation="Horizontal" Spacing="15" HorizontalOptions="Center">
+                <Button Text="Foto"
+                        FontSize="18"
+                        BackgroundColor="Chocolate"
+                        TextColor="White"
+                        CornerRadius="25"
+                        Padding="12"
+                        WidthRequest="160"
+                        Command="{Binding TakePictureCommand}"/>
+
+                <Button Text="Gallerij"
+                        FontSize="18"
+                        BackgroundColor="Chocolate"
+                        TextColor="White"
+                        CornerRadius="25"
+                        Padding="12"
+                        WidthRequest="160"
+                        Command="{Binding ChooseFromGalleryCommand}"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

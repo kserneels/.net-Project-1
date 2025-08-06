@@ -1,0 +1,14 @@
+<Shell xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       xmlns:views="clr-namespace:BookRecognitionApp.Views"
+       x:Class="BookRecognitionApp.AppShell">
+
+    <!-- Define ShellContent for each page -->
+    <ShellContent Route="HomePage" ContentTemplate="{DataTemplate views:HomePage}" />
+    <ShellContent Route="NewBookPage" ContentTemplate="{DataTemplate views:NewBookPage}" />
+    <ShellContent Route="BookNewDetailsPage" ContentTemplate="{DataTemplate views:BookNewDetailsPage}" />
+    <ShellContent Route="BookDetailPage" ContentTemplate="{DataTemplate views:BookDetailPage}" />
+
+    
+
+</Shell>

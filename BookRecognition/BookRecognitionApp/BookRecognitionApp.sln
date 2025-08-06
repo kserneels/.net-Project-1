@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookRecognitionApp", "BookRecognitionApp\BookRecognitionApp.csproj", "{6B8F35A3-3288-49C9-988A-0BB8898B24E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B8F35A3-3288-49C9-988A-0BB8898B24E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B8F35A3-3288-49C9-988A-0BB8898B24E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B8F35A3-3288-49C9-988A-0BB8898B24E1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6B8F35A3-3288-49C9-988A-0BB8898B24E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B8F35A3-3288-49C9-988A-0BB8898B24E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B8F35A3-3288-49C9-988A-0BB8898B24E1}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70BD2B87-57ED-4360-9E3B-646F9ADF3A24}
+	EndGlobalSection
+EndGlobal
