@@ -1,13 +1,9 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:vm="clr-namespace:BookRecognitionApp.ViewModels"
-             xmlns:models="clr-namespace:BookRecognitionApp.Models"
              x:Class="BookRecognitionApp.Views.ReviewsPage"
-             x:DataType="vm:ReviewsPageViewModel"
-             x:Name="RootPage"
              Shell.NavBarIsVisible="False"
              Shell.FlyoutBehavior="Disabled">
-
 
     <Shell.BackButtonBehavior>
         <BackButtonBehavior IsEnabled="False" IsVisible="False"/>
@@ -20,33 +16,39 @@
         </LinearGradientBrush>
     </ContentPage.Background>
 
+    <!-- Wrap everything in a single StackLayout -->
     <StackLayout Padding="10">
 
-        <!-- Header with back button and title -->
+        <!-- Top Row with Back Button and Label in a Grid -->
         <Grid ColumnSpacing="0">
             <Grid.ColumnDefinitions>
+                <!-- Kolom voor de back-knop, krijgt een automatische breedte -->
                 <ColumnDefinition Width="Auto"/>
-                <ColumnDefinition Width="*" />
+
+                <!-- Kolom voor de label, neemt de resterende ruimte -->
+                <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
 
+            <!-- Terug-knop aan de linkerkant -->
             <Button Text="Terug naar HomePagina"
-                    FontSize="18"
-                    BackgroundColor="#D32F2F"
-                    TextColor="White"
-                    HorizontalOptions="Start"
-                    VerticalOptions="Center"
-                    Command="{Binding GoBackCommand}" 
-                    Grid.Column="0"/>
+            FontSize="18"
+            BackgroundColor="#D32F2F"
+            TextColor="White"
+            HorizontalOptions="Start"
+            VerticalOptions="Center"
+            Command="{Binding BackCommand}" 
+            Grid.Column="0"/>
 
+            <!-- Centraal geplaatste label -->
             <Label Text="Mijn boek reviews"
-                   TextColor="#3b5998"
-                   FontSize="40"
-                   HorizontalOptions="CenterAndExpand" 
-                   VerticalOptions="Center"
-                   Grid.Column="1"/>
+           TextColor="#3b5998"
+           FontSize="40"
+           HorizontalOptions="CenterAndExpand" 
+                VerticalOptions="Center"
+           Grid.Column="1"/>
         </Grid>
 
-        <!-- Reviews list -->
+        <!-- CollectionView for displaying reviews -->
         <CollectionView ItemsSource="{Binding Reviews}">
             <CollectionView.ItemsLayout>
                 <GridItemsLayout Orientation="Vertical" 
@@ -55,22 +57,23 @@
                                  HorizontalItemSpacing="8" />
             </CollectionView.ItemsLayout>
             <CollectionView.ItemTemplate>
-                <DataTemplate x:DataType="models:ReviewDisplayDto">
+                <DataTemplate>
                     <Frame Padding="4" BackgroundColor="#F2F2F2" 
                            CornerRadius="8"
                            HasShadow="True"
                            Margin="5">
                         <Frame.GestureRecognizers>
-                            <TapGestureRecognizer 
-                                Command="{Binding BindingContext.NavigateToDetailCommand, Source={x:Reference RootPage}}"
-                                CommandParameter="{Binding .}" />
+                            <TapGestureRecognizer Command="{Binding Source={RelativeSource AncestorType={x:Type vm:ReviewsPageViewModel}}, Path=NavigateToDetailCommand}"
+                                                  CommandParameter="{Binding .}" />
                         </Frame.GestureRecognizers>
-                        <StackLayout>
-                            <Image Source="{Binding CoverUrl}"
-                                   Aspect="AspectFill"
-                                   HeightRequest="150"
-                                   WidthRequest="100"
-                                   HorizontalOptions="Center" />
+                        <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                            <Grid HeightRequest="200" WidthRequest="150">
+                                <Image Source="{Binding CoverUrl}"
+                                       Aspect="AspectFill"
+                                       HorizontalOptions="FillAndExpand"
+                                       VerticalOptions="FillAndExpand" />
+
+                            </Grid>
                             <Label Text="{Binding Title}" 
                                    FontSize="22" 
                                    FontAttributes="Bold"

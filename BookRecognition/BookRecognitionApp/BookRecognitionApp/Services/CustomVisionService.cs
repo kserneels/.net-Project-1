@@ -8,13 +8,7 @@ public class CustomVisionService
     private readonly CustomVisionPredictionClient _customVisionClient;
     private readonly DocumentAnalysisClient _documentAnalysisClient;
 
-    private const string CustomVisionEndPoint = "https://isbnrecognition-prediction.cognitiveservices.azure.com/";
-    private const string PredictionKey = "";
-    private const string ProjectId = "";
-    private const string PublishedName = "Iteration1";
 
-    private const string FormRecognizerEndpoint = "https://ks-isbn.cognitiveservices.azure.com/";
-    private const string FormRecognizerKey = "7U3PnyC8kZMopoiNKtbUo7heWLENJ5A4cNogIgvn2nAthZE0OZZRJQQJ99AKAC5RqLJXJ3w3AAALACOGljxF";
 
     public CustomVisionService()
     {

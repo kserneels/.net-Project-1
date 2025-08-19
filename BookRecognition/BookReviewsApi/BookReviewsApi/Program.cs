@@ -1,52 +1,44 @@
 using BookReviewsApi.Data;
-using BookReviewsApi.Repositories;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// ? Voeg de databaseverbinding toe
-builder.Services.AddDbContext<BookReviewDbContext>(options =>
+// Voeg de databaseverbinding toe
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-// ? Voeg repositories toe vóór builder.Build()
-builder.Services.AddScoped<IBookRepository, BookRepository>();
-builder.Services.AddScoped<IBookReviewRepository, BookReviewRepository>();
+// Voeg de controllers toe
+builder.Services.AddControllers();
 
-// ? Voeg controllers en Swagger toe
-builder.Services.AddControllers()
-    .AddJsonOptions(options =>
-    {
-        options.JsonSerializerOptions.ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.IgnoreCycles;
-
-    });
-
+// Voeg Swagger/OpenAPI toe
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-// ? Configureer CORS
+// Configureer CORS
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAll",
-        policy => policy.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
+        builder => builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
 });
 
 var app = builder.Build();
 
-// ? Pas migraties toe bij startup
 using (var scope = app.Services.CreateScope())
 {
-    var dbContext = scope.ServiceProvider.GetRequiredService<BookReviewDbContext>();
-    dbContext.Database.Migrate();
+    var dbContext = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
+    dbContext.Database.Migrate();  // Dit past de migraties toe
 }
 
-// ? Middleware configuratie
+// Configureer de middleware
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
 }
 
+// Enable CORS, anders werkt het niet
 app.UseCors("AllowAll");
+
 app.UseHttpsRedirection();
 app.UseAuthorization();
 app.MapControllers();

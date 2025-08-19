@@ -1,158 +1,136 @@
 ﻿using BookRecognitionApp.Messages;
+using BookRecognitionApp.Navigation;
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using CommunityToolkit.Mvvm.Messaging;
 
-namespace BookRecognitionApp.ViewModels;
-
-public partial class BookDetailViewModel : ObservableObject
+namespace BookRecognitionApp.ViewModels
 {
-    private readonly INavigationService _navigationService;
-    private readonly ReviewService _reviewService;
-
-    [ObservableProperty]
-    private BookReview? bookReview;
-
-    [ObservableProperty]
-    private string? editableRating;
-
-    [ObservableProperty]
-    private string? editableReview;
-
-    [ObservableProperty]
-    private bool isEditing;
-
-    [ObservableProperty]
-    private bool isBusy;
-
-    public string[] Ratings { get; } = new[] { "Uitstekend", "Goed", "Gemiddeld", "Slecht" };
-
-    public string EditButtonText => IsEditing ? "Opslaan" : "Bewerken";
-    public bool IsNotEditing => !IsEditing;
-
-    public BookDetailViewModel(ReviewService reviewService, INavigationService navigationService)
+    public partial class BookDetailViewModel : ObservableObject, IQueryAttributable
     {
-        _reviewService = reviewService;
-        _navigationService = navigationService;
+        private readonly ReviewService _reviewService;
+        private readonly INavigationService _navigationService;
 
-        WeakReferenceMessenger.Default.Register<BookSelectedMessage>(this, OnBookSelected);
-    }
-
-    private void OnBookSelected(object recipient, BookSelectedMessage message)
-    {
-        var dto = message.Value;
-
-        // ✅ Map DTO to BookReview
-        BookReview = new BookReview
+        public BookDetailViewModel(INavigationService navigationService, ReviewService reviewService)
         {
-            Id = dto.Id,
-            Title = dto.Title,
-            Rating = dto.Rating,
-            Review = dto.Review,
-            ReviewDate = dto.ReviewDate,
-            CoverUrl = dto.CoverUrl,
-            ISBN = dto.ISBN ?? "Onbekend", // fallback if null
-            Author = dto.Author ?? "Onbekend",
-            Year = dto.Year ?? "Onbekend"
-        };
-
-        EditableRating = BookReview.Rating;
-        EditableReview = BookReview.Review;
-    }
-
-    [RelayCommand]
-    private async Task GoBackAsync()
-    {
-        IsBusy = true;
-        await _navigationService.GoBackAsync();
-        IsBusy = false;
-    }
-
-    [RelayCommand]
-    private void EditOrSave()
-    {
-        if (IsEditing)
-            SaveChangesCommand.Execute(null);
-        else
-            StartEditing();
-    }
-
-    private void StartEditing()
-    {
-        IsEditing = true;
-        EditableRating = BookReview?.Rating;
-        EditableReview = BookReview?.Review;
-        OnPropertyChanged(nameof(EditButtonText));
-        OnPropertyChanged(nameof(IsNotEditing));
-    }
-
-    [RelayCommand]
-    private void CancelEditing()
-    {
-        IsEditing = false;
-        OnPropertyChanged(nameof(EditButtonText));
-        OnPropertyChanged(nameof(IsNotEditing));
-    }
-
-    [RelayCommand]
-    private async Task SaveChangesAsync()
-    {
-        if (BookReview == null) return;
-
-        IsBusy = true;
-        IsEditing = false;
-        OnPropertyChanged(nameof(EditButtonText));
-        OnPropertyChanged(nameof(IsNotEditing));
-
-        BookReview.Rating = EditableRating;
-        BookReview.Review = EditableReview;
-
-        var updatedReview = await _reviewService.UpdateReviewAsync(BookReview.Id, BookReview);
-
-        if (updatedReview == null)
-        {
-            IsBusy = false;
-            await Application.Current.MainPage.DisplayAlert("Error", "Het is niet gelukt om de review op te slaan.", "OK");
-            return;
+            _navigationService = navigationService;
+            _reviewService = reviewService;
         }
 
-        await Application.Current.MainPage.DisplayAlert("Success", "Review succesvol geüpdatet!", "OK");
+        // The review being displayed/edited
+        [ObservableProperty] private BookReview? bookReview;
 
-        var refreshedReview = await _reviewService.GetReviewAsync(updatedReview.Id);
-        if (refreshedReview != null)
+        [ObservableProperty] private bool isEditing;
+        [ObservableProperty] private string? editableRating;
+        [ObservableProperty] private string? editableReview;
+
+        public string[] Ratings { get; } = { "Uitstekend", "Goed", "Gemiddeld", "Slecht" };
+
+        public bool IsNotEditing => !IsEditing;
+        public string EditButtonText => IsEditing ? "Opslaan" : "Bewerken";
+
+        // Commands
+        public IAsyncRelayCommand BackCommand => new AsyncRelayCommand(GoBackAsync);
+        public IAsyncRelayCommand DeleteCommand => new AsyncRelayCommand(DeleteReviewAsync);
+        public IAsyncRelayCommand EditCommand => new AsyncRelayCommand(EditOrSaveAsync);
+        public RelayCommand CancelCommand => new RelayCommand(CancelEditing);
+
+        /// <summary>
+        /// This method is automatically called after navigation.
+        /// We use navigation parameters instead of a message here, 
+        /// because the selected review is only needed by this page.
+        /// Messages are better for broadcast scenarios (e.g. updates/deletes).
+        /// </summary>
+        public void ApplyQueryAttributes(IDictionary<string, object> query)
         {
-            BookReview = refreshedReview;
-            EditableRating = refreshedReview.Rating;
-            EditableReview = refreshedReview.Review;
+            if (query.TryGetValue("BookReview", out var reviewObj) && reviewObj is BookReview review)
+            {
+                BookReview = review;
+                EditableRating = review.Rating;
+                EditableReview = review.Review;
+            }
         }
 
-        IsBusy = false;
-    }
-
-    [RelayCommand]
-    private async Task DeleteReviewAsync()
-    {
-        if (BookReview == null) return;
-
-        IsBusy = true;
-
-        bool confirm = await Application.Current.MainPage.DisplayAlert("Bevestigen", "Weet je zeker dat je deze review wilt verwijderen?", "Ja", "Nee");
-        if (!confirm)
+        private void StartEditing()
         {
-            IsBusy = false;
-            return;
+            IsEditing = true;
+            EditableRating = BookReview?.Rating;
+            EditableReview = BookReview?.Review;
+            OnPropertyChanged(nameof(IsNotEditing));
+            OnPropertyChanged(nameof(EditButtonText));
         }
 
-        bool success = await _reviewService.DeleteReviewAsync(BookReview.Id);
-        if (success)
+        private void CancelEditing()
         {
-            await GoBackAsync();
-        }
-        else
-        {
-            await Application.Current.MainPage.DisplayAlert("Fout", "Verwijderen van de review is mislukt.", "OK");
+            IsEditing = false;
+            OnPropertyChanged(nameof(IsNotEditing));
+            OnPropertyChanged(nameof(EditButtonText));
         }
 
-        IsBusy = false;
+        private async Task EditOrSaveAsync()
+        {
+            if (IsEditing)
+                await SaveChangesAsync();
+            else
+                StartEditing();
+        }
+
+        private async Task SaveChangesAsync()
+        {
+            if (BookReview == null) return;
+
+            IsEditing = false;
+            OnPropertyChanged(nameof(IsNotEditing));
+            OnPropertyChanged(nameof(EditButtonText));
+
+            BookReview.Rating = EditableRating;
+            BookReview.Review = EditableReview;
+
+            var updatedReview = await _reviewService.UpdateReviewAsync(BookReview.Id, BookReview);
+
+            if (updatedReview == null)
+            {
+                await App.Current.MainPage.DisplayAlert("Error", "Het is niet gelukt om de review op te slaan.", "OK");
+            }
+            else
+            {
+                await App.Current.MainPage.DisplayAlert("Success", "Review succesvol geüpdatet!", "OK");
+
+                // Broadcast update so other pages (e.g. review list) refresh
+                WeakReferenceMessenger.Default.Send(new ReviewAddedOrUpdatedMessage(updatedReview));
+
+                BookReview = updatedReview;
+                EditableRating = updatedReview.Rating;
+                EditableReview = updatedReview.Review;
+            }
+        }
+
+        private async Task DeleteReviewAsync()
+        {
+            if (BookReview == null) return;
+
+            bool confirm = await App.Current.MainPage.DisplayAlert(
+                "Bevestigen",
+                "Weet je zeker dat je deze review wilt verwijderen?",
+                "Ja",
+                "Nee");
+
+            if (!confirm) return;
+
+            bool success = await _reviewService.DeleteReviewAsync(BookReview.Id);
+            if (success)
+            {
+                // Broadcast deletion so review list can update
+                WeakReferenceMessenger.Default.Send(new ReviewDeletedMessage(BookReview.Id));
+                await GoBackAsync();
+            }
+            else
+            {
+                await App.Current.MainPage.DisplayAlert("Fout", "Verwijderen van de review is mislukt.", "OK");
+            }
+        }
+
+        private Task GoBackAsync() =>
+            _navigationService.GoBackAsync();
     }
 }

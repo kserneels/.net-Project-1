@@ -1,5 +1,7 @@
-﻿using BookRecognitionApp.ViewModels;
+﻿using BookRecognitionApp.Navigation;
+using BookRecognitionApp.ViewModels;
 using BookRecognitionApp.Views;
+using CommunityToolkit.Mvvm.Messaging;
 using Microsoft.Extensions.Logging;
 
 namespace BookRecognitionApp
@@ -9,6 +11,7 @@ namespace BookRecognitionApp
         public static MauiApp CreateMauiApp()
         {
             var builder = MauiApp.CreateBuilder();
+
             builder
                 .UseMauiApp<App>()
                 .ConfigureFonts(fonts =>
@@ -17,29 +20,30 @@ namespace BookRecognitionApp
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
                 });
 
-            // Register pages and view models
+            // ViewModels
             builder.Services.AddTransient<HomePageViewModel>();
             builder.Services.AddTransient<NewBookPageViewModel>();
             builder.Services.AddTransient<BookNewDetailsPageViewModel>();
             builder.Services.AddTransient<ReviewsPageViewModel>();
             builder.Services.AddTransient<BookDetailViewModel>();
 
-            // Register pages
+            // Pages
             builder.Services.AddTransient<HomePage>();
             builder.Services.AddTransient<NewBookPage>();
             builder.Services.AddTransient<BookNewDetailsPage>();
             builder.Services.AddTransient<ReviewsPage>();
             builder.Services.AddTransient<BookDetailPage>();
 
-            // Register services
+            // Services
             builder.Services.AddTransient<BookService>();
             builder.Services.AddTransient<ReviewService>();
-            builder.Services.AddSingleton<CustomVisionService>(); // Register as singleton if it holds state or settings
-            builder.Services.AddTransient<INavigationService, NavigationService>();
-            builder.Services.AddSingleton<NavigationDataService>();
+            builder.Services.AddSingleton<CustomVisionService>();
+            builder.Services.AddSingleton<INavigationService, NavigationService>();
 
+            // Messenger (shared instance)
+            builder.Services.AddSingleton<IMessenger>(WeakReferenceMessenger.Default);
 
-            // Register HttpClient for network calls
+            // Networking
             builder.Services.AddHttpClient();
 
 #if DEBUG

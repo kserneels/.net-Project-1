@@ -1,278 +1,322 @@
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\BookRecognitionApp.runtimeconfig.json
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\BookRecognitionApp.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\BookRecognitionApp.pdb
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Azure.AI.FormRecognizer.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Azure.AI.Vision.ImageAnalysis.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Azure.Core.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\CommunityToolkit.Mvvm.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.Binder.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Diagnostics.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Diagnostics.Abstractions.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Http.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Debug.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Options.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Primitives.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.Compatibility.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.Xaml.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Essentials.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Graphics.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Rest.ClientRuntime.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Rest.ClientRuntime.Azure.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Newtonsoft.Json.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\SkiaSharp.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ClientModel.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Memory.Data.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ar\Microsoft.Maui.Controls.resources.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ca\Microsoft.Maui.Controls.resources.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\cs\Microsoft.Maui.Controls.resources.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\da\Microsoft.Maui.Controls.resources.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\de\Microsoft.Maui.Controls.resources.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\el\Microsoft.Maui.Controls.resources.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\es\Microsoft.Maui.Controls.resources.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\fi\Microsoft.Maui.Controls.resources.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\fr\Microsoft.Maui.Controls.resources.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\he\Microsoft.Maui.Controls.resources.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\hi\Microsoft.Maui.Controls.resources.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\hr\Microsoft.Maui.Controls.resources.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\hu\Microsoft.Maui.Controls.resources.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\id\Microsoft.Maui.Controls.resources.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\it\Microsoft.Maui.Controls.resources.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ja\Microsoft.Maui.Controls.resources.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ko\Microsoft.Maui.Controls.resources.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ms\Microsoft.Maui.Controls.resources.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\nb\Microsoft.Maui.Controls.resources.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\nl\Microsoft.Maui.Controls.resources.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\pl\Microsoft.Maui.Controls.resources.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\pt\Microsoft.Maui.Controls.resources.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ro\Microsoft.Maui.Controls.resources.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ru\Microsoft.Maui.Controls.resources.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\sk\Microsoft.Maui.Controls.resources.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\sv\Microsoft.Maui.Controls.resources.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\th\Microsoft.Maui.Controls.resources.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\tr\Microsoft.Maui.Controls.resources.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\uk\Microsoft.Maui.Controls.resources.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\vi\Microsoft.Maui.Controls.resources.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSkiaSharp.framework.zip
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.CSharp.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.Core.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Win32.Primitives.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Win32.Registry.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.AppContext.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Buffers.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.Concurrent.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.Immutable.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.NonGeneric.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.Specialized.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.Annotations.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.DataAnnotations.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.EventBasedAsync.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.Primitives.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.TypeConverter.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Configuration.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Console.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Core.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Data.Common.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Data.DataSetExtensions.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Data.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Contracts.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Debug.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.DiagnosticSource.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.FileVersionInfo.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Process.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.StackTrace.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.TextWriterTraceListener.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Tools.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.TraceSource.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Tracing.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Drawing.Primitives.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Drawing.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Dynamic.Runtime.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Formats.Asn1.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Formats.Tar.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Globalization.Calendars.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Globalization.Extensions.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Globalization.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.Brotli.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.FileSystem.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.ZipFile.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.AccessControl.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.DriveInfo.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.Primitives.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.Watcher.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.IsolatedStorage.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.MemoryMappedFiles.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Pipes.AccessControl.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Pipes.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.UnmanagedMemoryStream.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.Expressions.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.Parallel.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.Queryable.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Memory.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Http.Json.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Http.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.HttpListener.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Mail.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.NameResolution.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.NetworkInformation.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Ping.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Primitives.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Quic.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Requests.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Security.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.ServicePoint.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Sockets.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebClient.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebHeaderCollection.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebProxy.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebSockets.Client.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebSockets.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Numerics.Vectors.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Numerics.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ObjectModel.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.DataContractSerialization.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.Uri.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.Xml.Linq.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.Xml.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.DispatchProxy.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.ILGeneration.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.Lightweight.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Extensions.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Metadata.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Primitives.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.TypeExtensions.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Resources.Reader.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Resources.ResourceManager.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Resources.Writer.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.CompilerServices.VisualC.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Extensions.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Handles.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.JavaScript.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Intrinsics.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Loader.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Numerics.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Formatters.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Json.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Primitives.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Xml.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.AccessControl.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Claims.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Algorithms.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Cng.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Csp.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Encoding.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.OpenSsl.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Primitives.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.X509Certificates.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Principal.Windows.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Principal.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.SecureString.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ServiceModel.Web.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ServiceProcess.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.CodePages.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.Extensions.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encodings.Web.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Json.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.RegularExpressions.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Channels.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Overlapped.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Dataflow.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Extensions.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Parallel.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Thread.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.ThreadPool.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Timer.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Transactions.Local.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Transactions.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ValueTuple.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Web.HttpUtility.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Web.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Windows.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.Linq.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.ReaderWriter.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.Serialization.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XDocument.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XPath.XDocument.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XPath.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XmlDocument.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XmlSerializer.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\WindowsBase.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\mscorlib.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\netstandard.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.CoreLib.dll
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt.dat
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_CJK.dat
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_EFIGS.dat
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_hybrid.dat
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_no_CJK.dat
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Globalization.Native.a
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Globalization.Native.dylib
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.IO.Compression.Native.a
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.IO.Compression.Native.dylib
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Native.a
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Native.dylib
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Net.Security.Native.a
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Net.Security.Native.dylib
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Security.Cryptography.Native.Apple.a
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Security.Cryptography.Native.Apple.dylib
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libicudata.a
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libicui18n.a
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libicuuc.a
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-debugger-static.a
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-debugger-stub-static.a
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-diagnostics_tracing-static.a
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-diagnostics_tracing-stub-static.a
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-hot_reload-static.a
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-hot_reload-stub-static.a
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-marshal-ilgen-static.a
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-marshal-ilgen-stub-static.a
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmonosgen-2.0.a
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmonosgen-2.0.dylib
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.registrar.a
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.a
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.dylib
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-nativeaot-debug.a
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-nativeaot.a
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.a
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.dylib
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\BookRecognitionApp.runtimeconfig.json
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\BookRecognitionApp.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\BookRecognitionApp.pdb
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Azure.AI.FormRecognizer.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Azure.AI.Vision.ImageAnalysis.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Azure.Core.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\CommunityToolkit.Mvvm.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.Binder.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Diagnostics.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Http.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Options.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Primitives.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.Compatibility.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.Xaml.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Essentials.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Graphics.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Rest.ClientRuntime.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Newtonsoft.Json.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\SkiaSharp.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ClientModel.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Memory.Data.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ar\Microsoft.Maui.Controls.resources.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ca\Microsoft.Maui.Controls.resources.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\cs\Microsoft.Maui.Controls.resources.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\da\Microsoft.Maui.Controls.resources.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\de\Microsoft.Maui.Controls.resources.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\el\Microsoft.Maui.Controls.resources.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\es\Microsoft.Maui.Controls.resources.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\fi\Microsoft.Maui.Controls.resources.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\fr\Microsoft.Maui.Controls.resources.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\he\Microsoft.Maui.Controls.resources.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\hi\Microsoft.Maui.Controls.resources.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\hr\Microsoft.Maui.Controls.resources.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\hu\Microsoft.Maui.Controls.resources.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\id\Microsoft.Maui.Controls.resources.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\it\Microsoft.Maui.Controls.resources.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ja\Microsoft.Maui.Controls.resources.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ko\Microsoft.Maui.Controls.resources.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ms\Microsoft.Maui.Controls.resources.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\nb\Microsoft.Maui.Controls.resources.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\nl\Microsoft.Maui.Controls.resources.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\pl\Microsoft.Maui.Controls.resources.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\pt\Microsoft.Maui.Controls.resources.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ro\Microsoft.Maui.Controls.resources.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ru\Microsoft.Maui.Controls.resources.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\sk\Microsoft.Maui.Controls.resources.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\sv\Microsoft.Maui.Controls.resources.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\th\Microsoft.Maui.Controls.resources.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\tr\Microsoft.Maui.Controls.resources.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\uk\Microsoft.Maui.Controls.resources.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\vi\Microsoft.Maui.Controls.resources.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSkiaSharp.framework.zip
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.CSharp.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.Core.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Win32.Primitives.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Win32.Registry.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.AppContext.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Buffers.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.Concurrent.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.Immutable.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.NonGeneric.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.Specialized.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.Annotations.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.DataAnnotations.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.EventBasedAsync.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.Primitives.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.TypeConverter.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Configuration.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Console.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Core.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Data.Common.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Data.DataSetExtensions.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Data.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Contracts.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Debug.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.DiagnosticSource.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.FileVersionInfo.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Process.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.StackTrace.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Tools.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.TraceSource.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Tracing.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Drawing.Primitives.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Drawing.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Dynamic.Runtime.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Formats.Asn1.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Formats.Tar.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Globalization.Calendars.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Globalization.Extensions.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Globalization.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.Brotli.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.FileSystem.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.ZipFile.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.AccessControl.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.DriveInfo.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.Primitives.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.Watcher.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.IsolatedStorage.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.MemoryMappedFiles.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Pipes.AccessControl.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Pipes.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.UnmanagedMemoryStream.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.Expressions.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.Parallel.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.Queryable.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Memory.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Http.Json.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Http.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.HttpListener.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Mail.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.NameResolution.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.NetworkInformation.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Ping.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Primitives.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Quic.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Requests.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Security.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.ServicePoint.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Sockets.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebClient.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebHeaderCollection.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebProxy.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebSockets.Client.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebSockets.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Numerics.Vectors.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Numerics.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ObjectModel.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.DataContractSerialization.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.Uri.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.Xml.Linq.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.Xml.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.DispatchProxy.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.ILGeneration.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.Lightweight.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Extensions.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Metadata.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Primitives.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.TypeExtensions.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Resources.Reader.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Resources.ResourceManager.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Resources.Writer.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Extensions.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Handles.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.JavaScript.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Intrinsics.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Loader.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Numerics.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Formatters.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Json.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Primitives.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Xml.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.AccessControl.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Claims.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Algorithms.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Cng.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Csp.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Encoding.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.OpenSsl.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Primitives.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.X509Certificates.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Principal.Windows.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Principal.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.SecureString.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ServiceModel.Web.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ServiceProcess.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.CodePages.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.Extensions.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encodings.Web.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Json.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.RegularExpressions.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Channels.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Overlapped.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Dataflow.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Extensions.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Parallel.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Thread.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.ThreadPool.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Timer.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Transactions.Local.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Transactions.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ValueTuple.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Web.HttpUtility.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Web.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Windows.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.Linq.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.ReaderWriter.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.Serialization.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XDocument.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XPath.XDocument.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XPath.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XmlDocument.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XmlSerializer.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\WindowsBase.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\mscorlib.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\netstandard.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.CoreLib.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt.dat
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_CJK.dat
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_EFIGS.dat
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_hybrid.dat
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_no_CJK.dat
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Globalization.Native.a
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Globalization.Native.dylib
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.IO.Compression.Native.a
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.IO.Compression.Native.dylib
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Native.a
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Native.dylib
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Net.Security.Native.a
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Net.Security.Native.dylib
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Security.Cryptography.Native.Apple.a
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Security.Cryptography.Native.Apple.dylib
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libicudata.a
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libicui18n.a
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libicuuc.a
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-debugger-static.a
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-debugger-stub-static.a
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-diagnostics_tracing-static.a
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-diagnostics_tracing-stub-static.a
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-hot_reload-static.a
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-hot_reload-stub-static.a
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-marshal-ilgen-static.a
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-marshal-ilgen-stub-static.a
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmonosgen-2.0.a
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmonosgen-2.0.dylib
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.registrar.a
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.a
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.dylib
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-nativeaot-debug.a
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-nativeaot.a
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.a
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.dylib
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauiimage.inputs
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauifont.inputs
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauisplash.inputs
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauisplash.stamp
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\no_cover.jpg
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauiimage.stamp
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauiimage.outputs
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\MauiInfo.plist
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauifont.stamp
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Regular.ttf
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Semibold.ttf
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\actool\_PartialAppManifest.items
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\actool\_BundleResourceWithLogicalName.items
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\actool\_ProcessedImageAssetsPath.items
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\coremlc\_PartialAppManifest.items
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\coremlc\_BundleResourceWithLogicalName.items
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\coremlc\_ProcessedCoreMLModelsPath.items
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\_ProcessedBundleResourcesPath.items
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\_ProcessedContentPath.items
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\BookRecognitionApp.csproj.AssemblyReference.cache
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\BookRecognitionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\BookRecognitionApp.AssemblyInfoInputs.cache
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\BookRecognitionApp.AssemblyInfo.cs
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\BookRecognitionApp.csproj.CoreCompileInputs.cache
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\BookRecognitionApp.sourcelink.json
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\XamlC.stamp
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\BookReco.7B2CBEEC.Up2Date
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\BookRecognitionApp.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\refint\BookRecognitionApp.dll
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\BookRecognitionApp.pdb
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\BookRecognitionApp.genruntimeconfig.cache
+D:\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ref\BookRecognitionApp.dll
 C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauiimage.inputs
 C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauifont.inputs
 C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauisplash.inputs
@@ -310,10 +354,6 @@ C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookR
 C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\BookRecognitionApp.AssemblyInfo.cs
 C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\BookRecognitionApp.csproj.CoreCompileInputs.cache
 C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\BookRecognitionApp.sourcelink.json
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\XamlC.stamp
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\BookReco.7B2CBEEC.Up2Date
 C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\BookRecognitionApp.dll
 C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\refint\BookRecognitionApp.dll
 C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\BookRecognitionApp.pdb
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\BookRecognitionApp.genruntimeconfig.cache
-C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ref\BookRecognitionApp.dll

@@ -1,102 +1,106 @@
-﻿using BookReviewsApi.Models;
-using BookReviewsApi.Repositories;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
+using BookReviewsApi.Data;
+using BookReviewsApi.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace BookReviewsApi.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class BooksController : ControllerBase
+    public class BookReviewsController : ControllerBase
     {
-        private readonly IBookRepository _repository;
-        private readonly IBookReviewRepository _reviewRepository;
+        private readonly ApplicationDbContext _context;
 
-        public BooksController(IBookRepository repository, IBookReviewRepository reviewRepository)
+        public BookReviewsController(ApplicationDbContext context)
         {
-            _repository = repository;
-            _reviewRepository = reviewRepository;
+            _context = context;
         }
 
-        // ✅ Upload book + review together
-        [HttpPost("AddWithReview")]
-        public async Task<IActionResult> AddBookWithReview([FromBody] BookReviewDto dto)
+        // POST: api/BookReviews
+        [HttpPost]
+        public async Task<IActionResult> AddReview([FromBody] BookReview bookReview)
         {
-            var existingBook = await _repository.GetAllAsync();
-            var book = existingBook.FirstOrDefault(b => b.ISBN == dto.ISBN);
-
-            if (book == null)
+            if (bookReview == null || string.IsNullOrWhiteSpace(bookReview.Review))
             {
-                book = new Book
-                {
-                    Title = dto.Title,
-                    Author = dto.Author,
-                    Year = dto.Year,
-                    ISBN = dto.ISBN,
-                    CoverUrl = dto.CoverUrl
-                };
-                book = await _repository.AddAsync(book);
+                return BadRequest("Invalid review data.");
             }
 
-            var review = new BookReview
-            {
-                Rating = dto.Rating,
-                Review = dto.Review,
-                ReviewDate = dto.ReviewDate,
-                BookId = book.Id
-            };
+            // Set de review datum naar de current datum
+            bookReview.ReviewDate = DateTime.Now;
 
-            await _reviewRepository.AddAsync(review);
-            return Ok();
+            // Voeg de review toe aan de db
+            _context.BookReviews.Add(bookReview);
+            await _context.SaveChangesAsync();
+
+            return CreatedAtAction(nameof(GetReview), new { id = bookReview.Id }, bookReview);
         }
 
-        // ✅ Get all reviews
-        [HttpGet("Reviews")]
-        public async Task<ActionResult<IEnumerable<ReviewDisplayDto>>> GetAllReviews()
-        {
-            var reviews = await _reviewRepository.GetAllAsync();
-
-            var dtoList = reviews.Select(r => new ReviewDisplayDto
-            {
-                Id = r.Id,
-                Rating = r.Rating,
-                Review = r.Review,
-                ReviewDate = r.ReviewDate,
-                Title = r.Book.Title,
-                CoverUrl = r.Book.CoverUrl,
-                Author = r.Book.Author,
-                Year = r.Book.Year,
-                ISBN = r.Book.ISBN
-            }).ToList();
-
-            return Ok(dtoList);
-        }
-
-
-        // ✅ Get review by ID
-        [HttpGet("Reviews/{id}")]
+        // GET: api/BookReviews/5
+        [HttpGet("{id}")]
         public async Task<ActionResult<BookReview>> GetReview(int id)
         {
-            var review = await _reviewRepository.GetByIdAsync(id);
-            if (review == null) return NotFound();
+            var review = await _context.BookReviews.FindAsync(id);
+
+            if (review == null)
+            {
+                return NotFound();
+            }
+
             return Ok(review);
         }
 
-        // ✅ Update review
-        [HttpPut("Reviews/{id}")]
-        public async Task<IActionResult> UpdateReview(int id, [FromBody] BookReview updatedReview)
+        // GET: api/BookReviews
+        [HttpGet]
+        public async Task<ActionResult<IEnumerable<BookReview>>> GetAllReviews()
         {
-            if (id != updatedReview.Id || !ModelState.IsValid) return BadRequest();
-            var result = await _reviewRepository.UpdateAsync(updatedReview);
-            if (result == null) return NotFound();
-            return Ok(result);
+            var reviews = await _context.BookReviews.ToListAsync();
+            return Ok(reviews);
         }
 
-        // ✅ Delete review
-        [HttpDelete("Reviews/{id}")]
+        // PUT: api/BookReviews/5
+        [HttpPut("{id}")]
+        public async Task<IActionResult> UpdateReview(int id, [FromBody] BookReview updatedReview)
+        {
+            if (id != updatedReview.Id || updatedReview == null || string.IsNullOrWhiteSpace(updatedReview.Review))
+            {
+                return BadRequest("Invalid review data.");
+            }
+
+            var existingReview = await _context.BookReviews.FindAsync(id);
+            if (existingReview == null)
+            {
+                return NotFound();
+            }
+
+            // Update de review fields
+            existingReview.Title = updatedReview.Title;
+            existingReview.Author = updatedReview.Author;
+            existingReview.Review = updatedReview.Review;
+            existingReview.Rating = updatedReview.Rating;
+            existingReview.ReviewDate = updatedReview.ReviewDate;
+
+            // Mark als modified
+            _context.Entry(existingReview).State = EntityState.Modified;
+
+            // Save changes to the database
+            await _context.SaveChangesAsync();
+
+            return Ok(existingReview);  // code 200
+        }
+
+        // DELETE: api/BookReviews/5
+        [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteReview(int id)
         {
-            var success = await _reviewRepository.DeleteAsync(id);
-            if (!success) return NotFound();
+            var review = await _context.BookReviews.FindAsync(id);
+            if (review == null)
+            {
+                return NotFound();
+            }
+
+            _context.BookReviews.Remove(review);
+            await _context.SaveChangesAsync();
+
             return NoContent();
         }
     }

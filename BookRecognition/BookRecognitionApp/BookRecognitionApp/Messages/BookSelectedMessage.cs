@@ -1,10 +1,12 @@
-﻿using BookRecognitionApp.Models;
-using CommunityToolkit.Mvvm.Messaging.Messages;
+﻿using CommunityToolkit.Mvvm.Messaging.Messages;
 
 namespace BookRecognitionApp.Messages
 {
-    public class BookSelectedMessage : ValueChangedMessage<ReviewDisplayDto>
+    public class BookSelectedMessage : ValueChangedMessage<(BookInfo BookInfo, BookReview BookReview)>
     {
-        public BookSelectedMessage(ReviewDisplayDto value) : base(value) { }
+        public BookSelectedMessage(BookInfo bookInfo, BookReview bookReview)
+            : base((bookInfo, bookReview))
+        {
+        }
     }
 }

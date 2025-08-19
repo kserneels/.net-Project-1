@@ -6,22 +6,26 @@
              Shell.FlyoutBehavior="Disabled"
              Title="{Binding BookReview.Title}">
 
+
+    
+
+    <!-- Gradient Background -->
     <ContentPage.Background>
         <LinearGradientBrush>
             <GradientStop Color="#E1DCC5" Offset="0.0" />
             <GradientStop Color="#B0C4DE" Offset="1.0" />
         </LinearGradientBrush>
     </ContentPage.Background>
-
+    
     <Shell.BackButtonBehavior>
         <BackButtonBehavior IsEnabled="False" IsVisible="False"/>
     </Shell.BackButtonBehavior>
-
+    
     <ContentPage.Content>
         <ScrollView>
             <StackLayout Padding="20" Spacing="15">
 
-                <!-- Back Button with Icon -->
+                <!-- Back Button -->
                 <Button Text="Terug naar reviews"
                         FontSize="18"
                         BackgroundColor="DarkRed"
@@ -30,37 +34,21 @@
                         Padding="10,5"
                         HorizontalOptions="Start"
                         VerticalOptions="Center"
-                        Command="{Binding BackCommand}">
-                    <Button.ImageSource>
-                        <FontImageSource Glyph="⮐" FontFamily="OpenSansRegular" Size="20" Color="White"/>
-                    </Button.ImageSource>
-                </Button>
+                        Command="{Binding BackCommand}" />
 
-                <!-- Book Cover with Shadow -->
-                <Frame HasShadow="True" Padding="0" CornerRadius="10" BackgroundColor="Transparent">
-                    <Image Source="{Binding BookReview.CoverUrl, FallbackValue='Resources/Images/no_cover.jpg'}"
-                           Aspect="AspectFill"
-                           HeightRequest="300"
-                           WidthRequest="200"
-                           HorizontalOptions="Center" />
-                </Frame>
-
-                <!-- Book Title with Gradient -->
-                <Grid HorizontalOptions="Center" Margin="0,15,0,5">
-                    <Grid.Background>
-                        <LinearGradientBrush StartPoint="0,0" EndPoint="1,0">
-                            <GradientStop Color="#FF6A00" Offset="0.0" />
-                            <GradientStop Color="#FFD800" Offset="1.0" />
-                        </LinearGradientBrush>
-                    </Grid.Background>
-
-                    <Label Text="{Binding BookReview.Title}" 
-           FontSize="28" 
-           FontAttributes="Bold"
-           HorizontalOptions="Center"
-           VerticalOptions="Center"
-           TextColor="White" />
-                </Grid>
+                <Image Source="{Binding BookReview.CoverUrl, FallbackValue='Resources/Images/no_cover.jpg'}" 
+       Aspect="AspectFill"
+       HeightRequest="300"
+       WidthRequest="200"
+       HorizontalOptions="Center" />
+                <!-- Book Cover Image with Shadow -->  
+                <!-- Book Title -->
+                <Label Text="{Binding BookReview.Title}" 
+                       FontSize="28" 
+                       FontAttributes="Bold"
+                       TextColor="#3b5998"
+                       HorizontalOptions="Center"
+                       Margin="0,15,0,5"/>
 
                 <!-- Author Name -->
                 <Label Text="{Binding BookReview.Author}" 
@@ -69,24 +57,29 @@
                        HorizontalOptions="Center"
                        Margin="0,0,0,10"/>
 
-                <!-- Activity Indicator -->
-                <ActivityIndicator IsRunning="{Binding IsBusy}" IsVisible="{Binding IsBusy}" Color="DarkRed" />
-
                 <!-- Book Info Card -->
                 <Frame CornerRadius="15" HasShadow="True" BackgroundColor="White" Padding="15">
                     <StackLayout Spacing="10">
 
-                        <!-- ISBN + Buttons -->
+                        <!-- Row with ISBN, Edit, Save, Cancel, and Delete Buttons -->
                         <Grid ColumnDefinitions="Auto,*,Auto" VerticalOptions="Center">
+                            <!-- ISBN Label -->
                             <Label Text="ISBN:" FontAttributes="Bold" FontSize="16" TextColor="#3b5998" Grid.Column="0" VerticalOptions="Center" />
+
+                            <!-- ISBN Value -->
                             <Label Text="{Binding BookReview.ISBN}" FontSize="16" TextColor="Black" Grid.Column="1" VerticalOptions="Center"/>
+
+                            <!-- Edit/Save, Cancel, and Delete Button Stack -->
                             <StackLayout Orientation="Horizontal" Spacing="10" Grid.Column="2" HorizontalOptions="EndAndExpand">
+                                <!-- Edit/Save Button -->
                                 <Button Text="{Binding EditButtonText}" 
                                         WidthRequest="110" 
                                         HeightRequest="40" 
                                         TextColor="White"
                                         BackgroundColor="Chocolate"
                                         Command="{Binding EditCommand}" />
+
+                                <!-- Cancel Button -->
                                 <Button Text="Annuleren" 
                                         IsVisible="{Binding IsEditing}" 
                                         WidthRequest="110" 
@@ -94,6 +87,8 @@
                                         TextColor="White"
                                         BackgroundColor="#B22222"
                                         Command="{Binding CancelCommand}" />
+
+                                <!-- Delete Button -->
                                 <Button Text="Verwijderen" 
                                         IsVisible="{Binding IsNotEditing}" 
                                         WidthRequest="110" 
@@ -112,15 +107,21 @@
                         <Label Text="Beoordeeld op" FontAttributes="Bold" FontSize="16" TextColor="#3b5998"/>
                         <Label Text="{Binding BookReview.ReviewDate, StringFormat='{0:yyyy-MM-dd}'}" FontSize="16" TextColor="Black"/>
 
-                        <!-- Rating -->
-                        <Label Text="Rating" FontSize="18" FontAttributes="Bold" TextColor="#3b5998" Margin="0,0,0,5"/>
+                        <!-- Rating Section -->
+                        <Label Text="Rating" 
+                               FontSize="18" 
+                               FontAttributes="Bold" 
+                               TextColor="#3b5998" 
+                               Margin="0,0,0,5"/>
+
+                        <!-- Editable Rating (Picker or Label) -->
                         <Picker SelectedItem="{Binding EditableRating}" 
-                                IsVisible="{Binding IsEditing}"
-                                FontSize="16" 
-                                TextColor="Black" 
-                                Title="Selecteer Beoordeling"
-                                HorizontalOptions="FillAndExpand"
-                                Margin="0,0,0,5">
+                            IsVisible="{Binding IsEditing}"
+                            FontSize="16" 
+                            TextColor="Black" 
+                            Title="Selecteer Beoordeling"
+                            HorizontalOptions="FillAndExpand"
+                            Margin="0,0,0,5">       
                             <Picker.Items>
                                 <x:String>Uitstekend</x:String>
                                 <x:String>Goed</x:String>
@@ -129,13 +130,19 @@
                             </Picker.Items>
                         </Picker>
                         <Label Text="{Binding BookReview.Rating}" 
-                               IsVisible="{Binding IsNotEditing}"
-                               FontSize="16" 
-                               TextColor="#FFA500" 
-                               FontAttributes="Bold"/>
+                           IsVisible="{Binding IsNotEditing}"
+                           FontSize="16" 
+                           TextColor="#FFA500" 
+                           FontAttributes="Bold"/>
 
-                        <!-- Review -->
-                        <Label Text="Review" FontSize="18" FontAttributes="Bold" TextColor="#3b5998" Margin="0,10,0,5"/>
+                        <!-- Review Section -->
+                        <Label Text="Review" 
+                               FontSize="18" 
+                               FontAttributes="Bold" 
+                               TextColor="#3b5998" 
+                               Margin="0,10,0,5"/>
+
+                        <!-- Editable Review (Editor or Label) -->
                         <Editor Text="{Binding EditableReview}" 
                                 IsVisible="{Binding IsEditing}"
                                 FontSize="16" 

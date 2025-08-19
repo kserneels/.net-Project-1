@@ -33,8 +33,7 @@
                         TextColor="White"
                         CornerRadius="10"
                         HeightRequest="50"
-                        Command="{Binding NavigateToNewBookPageCommand}"
-/>
+                        Command="{Binding OnNewBookClicked}"/>
             </Frame>
 
             <!-- Reviews Button with Icon and Card Style -->
@@ -47,8 +46,7 @@
                         TextColor="White"
                         CornerRadius="10"
                         HeightRequest="50"
-                        Command="{Binding NavigateToReviewsPageCommand}"
-/>
+                        Command="{Binding OnReviewsClicked}"/>
             </Frame>
 
         </StackLayout>

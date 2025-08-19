@@ -1,5 +1,9 @@
-﻿using CommunityToolkit.Mvvm.ComponentModel;
+﻿using BookRecognitionApp.Navigation;
+using BookRecognitionApp.Views;
+using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
+using CommunityToolkit.Mvvm.Messaging;
+using Microsoft.Extensions.Logging;
 
 namespace BookRecognitionApp.ViewModels
 {
@@ -8,49 +12,51 @@ namespace BookRecognitionApp.ViewModels
         private readonly CustomVisionService _customVisionService;
         private readonly BookService _bookService;
         private readonly INavigationService _navigationService;
-        private readonly NavigationDataService _navigationDataService;
+        private readonly IMessenger _messenger;
+        private readonly ILogger<NewBookPageViewModel> _logger;
 
         [ObservableProperty]
-        private ImageSource bookCoverImageSource;
+        private ImageSource _bookCoverImageSource;
+
+        public IAsyncRelayCommand TakePictureCommand { get; }
+        public IAsyncRelayCommand ChooseFromGalleryCommand { get; }
+        public IAsyncRelayCommand BackCommand { get; }
 
         public NewBookPageViewModel(
             CustomVisionService customVisionService,
             BookService bookService,
             INavigationService navigationService,
-            NavigationDataService navigationDataService)
+            IMessenger messenger,
+            ILogger<NewBookPageViewModel> logger)
         {
             _customVisionService = customVisionService;
             _bookService = bookService;
             _navigationService = navigationService;
-            _navigationDataService = navigationDataService;
+            _messenger = messenger;
+            _logger = logger;
+
+            TakePictureCommand = new AsyncRelayCommand(TakePicture);
+            ChooseFromGalleryCommand = new AsyncRelayCommand(ChooseFromGallery);
+            BackCommand = new AsyncRelayCommand(GoBackAsync);
+
+            _logger.LogInformation("✅ NewBookPageViewModel created");
         }
 
-        [RelayCommand]
-        private async Task TakePictureAsync()
+        private async Task TakePicture()
         {
-            if (MediaPicker.Default.IsCaptureSupported)
-            {
-                var photo = await MediaPicker.Default.CapturePhotoAsync();
-                if (photo != null)
-                    await ProcessImageAsync(photo);
-            }
+            if (!MediaPicker.Default.IsCaptureSupported) return;
+
+            var photo = await MediaPicker.Default.CapturePhotoAsync();
+            if (photo != null) await ProcessImage(photo);
         }
 
-        [RelayCommand]
-        private async Task ChooseFromGalleryAsync()
+        private async Task ChooseFromGallery()
         {
             var photo = await MediaPicker.Default.PickPhotoAsync();
-            if (photo != null)
-                await ProcessImageAsync(photo);
+            if (photo != null) await ProcessImage(photo);
         }
 
-        [RelayCommand]
-        private async Task GoBackAsync()
-        {
-            await _navigationService.GoBackAsync();
-        }
-
-        private async Task ProcessImageAsync(FileResult photo)
+        private async Task ProcessImage(FileResult photo)
         {
             try
             {
@@ -59,27 +65,24 @@ namespace BookRecognitionApp.ViewModels
                 await stream.CopyToAsync(memoryStream);
 
                 BookCoverImageSource = ImageSource.FromStream(() => new MemoryStream(memoryStream.ToArray()));
-                byte[] imageData = memoryStream.ToArray();
+                var imageData = memoryStream.ToArray();
 
                 string isbn = await _customVisionService.ExtractISBN(imageData)
-                             ?? await _customVisionService.ExtractISBNFromOCR(imageData);
+                               ?? await _customVisionService.ExtractISBNFromOCR(imageData);
 
                 if (!string.IsNullOrEmpty(isbn))
-                {
-                    await FetchAndDisplayBookInfoAsync(isbn);
-                }
+                    await FetchAndSendBookInfo(isbn);
                 else
-                {
-                    await Application.Current.MainPage.DisplayAlert("Error", "ISBN not detected in the photo. Please try again.", "OK");
-                }
+                    await App.Current.MainPage.DisplayAlert("Error", "ISBN not detected. Try again.", "OK");
             }
             catch (Exception ex)
             {
-                await Application.Current.MainPage.DisplayAlert("Error", $"An error occurred: {ex.Message}", "OK");
+                _logger.LogError(ex, "❌ Error while processing image");
+                await App.Current.MainPage.DisplayAlert("Error", $"An error occurred: {ex.Message}", "OK");
             }
         }
 
-        private async Task FetchAndDisplayBookInfoAsync(string isbn)
+        private async Task FetchAndSendBookInfo(string isbn)
         {
             var bookInfo = await _bookService.GetBookDetailsFromOpenLibrary(isbn);
             if (bookInfo != null)
@@ -93,18 +96,23 @@ namespace BookRecognitionApp.ViewModels
                     ISBN = bookInfo.ISBN
                 };
 
-                await Application.Current.MainPage.DisplayAlert("Success", "ISBN Found", "OK");
+                _logger.LogInformation("📤 Navigating to BookNewDetailsPage first...");
+                await _navigationService.GoToAsync(nameof(BookNewDetailsPage));
 
-                _navigationDataService.BookInfo = bookInfo;
-                _navigationDataService.BookReview = bookReview;
-
-                await _navigationService.NavigateToAsync("BookNewDetailsPage");
+                _logger.LogInformation("📤 Sending BookSelectedMessage for ISBN {ISBN}", bookInfo.ISBN);
+                _messenger.Send(new BookSelectedMessage(bookInfo, bookReview));
             }
             else
             {
-                await Application.Current.MainPage.DisplayAlert("Error", "Book information not found.", "OK");
+                await App.Current.MainPage.DisplayAlert("Error", "Book information not found.", "OK");
             }
         }
-    }
-}
 
+
+        private Task GoBackAsync() =>
+            _navigationService.GoBackAsync();
+    }
+
+    // Message class
+    public record BookSelectedMessage(BookInfo BookInfo, BookReview BookReview);
+}

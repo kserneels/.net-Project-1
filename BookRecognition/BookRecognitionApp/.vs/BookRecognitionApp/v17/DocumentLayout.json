@@ -7,120 +7,122 @@
       "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\services\\customvisionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\moos.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\moos.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\viewmodels\\reviewspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\viewmodels\\reviewspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\views\\reviewspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\views\\reviewspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\viewmodels\\homepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\viewmodels\\homepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookRecognitionApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\models\\reviewdisplaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\models\\reviewdisplaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\viewmodels\\bookdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\viewmodels\\bookdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\views\\bookdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\views\\bookdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\messages\\bookselectedmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\messages\\bookselectedmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\models\\bookinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\models\\bookinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\viewmodels\\booknewdetailspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\viewmodels\\booknewdetailspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\navigation\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\navigation\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\navigation\\inavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\navigation\\inavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\models\\bookinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\models\\bookinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\models\\bookreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\models\\bookreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\viewmodels\\booknewdetailspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\viewmodels\\booknewdetailspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\viewmodels\\bookdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\viewmodels\\bookdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\models\\bookreviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\models\\bookreviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\messages\\reviewaddedorupdatedmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\messages\\reviewaddedorupdatedmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\viewmodels\\newbookpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\viewmodels\\newbookpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\viewmodels\\reviewspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\viewmodels\\reviewspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\views\\booknewdetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\views\\booknewdetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\views\\newbookpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\views\\newbookpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\messages\\selectedreviewmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\messages\\selectedreviewmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\messages\\bookselectedmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\messages\\bookselectedmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\views\\bookdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\views\\bookdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\views\\reviewspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\views\\reviewspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\messages\\reviewdeletedmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\messages\\reviewdeletedmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\viewmodels\\newbookpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\viewmodels\\newbookpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\views\\newbookpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\views\\newbookpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\services\\inavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\services\\inavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\views\\newbookpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\views\\newbookpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\services\\navigationdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\services\\navigationdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kenzo\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.100\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\viewmodels\\homepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\viewmodels\\homepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookRecognitionApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BookReviewsDb/True/SqlTable/dbo.BookReviews.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\views\\reviewspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\views\\reviewspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\views\\bookdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\views\\bookdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -131,25 +133,16 @@
       "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\views\\booknewdetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\views\\bookdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\views\\bookdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kenzo\\AppData\\Local\\SourceServer\\a0fa856b9f1725671368faaaf87aebe3e5b0aaf3f463dc1c2ce47fd71a6418aa\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kenzo\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.100\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BookReviewsDb/True/SqlTable/dbo.BookReviews.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\views\\reviewspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\views\\reviewspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookrecognitionapp\\bookrecognitionapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B8F35A3-3288-49C9-988A-0BB8898B24E1}|BookRecognitionApp\\BookRecognitionApp.csproj|solutionrelative:bookrecognitionapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -159,7 +152,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 87,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -171,174 +164,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Moos.txt",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Moos.txt",
-              "RelativeDocumentMoniker": "BookRecognitionApp\\Moos.txt",
-              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Moos.txt",
-              "RelativeToolTip": "BookRecognitionApp\\Moos.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-08-06T12:51:25.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ReviewDisplayDto.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Models\\ReviewDisplayDto.cs",
-              "RelativeDocumentMoniker": "BookRecognitionApp\\Models\\ReviewDisplayDto.cs",
-              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Models\\ReviewDisplayDto.cs",
-              "RelativeToolTip": "BookRecognitionApp\\Models\\ReviewDisplayDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T18:39:11.13Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BookDetailViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\ViewModels\\BookDetailViewModel.cs",
-              "RelativeDocumentMoniker": "BookRecognitionApp\\ViewModels\\BookDetailViewModel.cs",
-              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\ViewModels\\BookDetailViewModel.cs",
-              "RelativeToolTip": "BookRecognitionApp\\ViewModels\\BookDetailViewModel.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAiwJ4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T18:54:40.024Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\AppShell.xaml",
-              "RelativeDocumentMoniker": "BookRecognitionApp\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\AppShell.xaml",
-              "RelativeToolTip": "BookRecognitionApp\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-05T17:11:06.242Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\App.xaml",
-              "RelativeDocumentMoniker": "BookRecognitionApp\\App.xaml",
-              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\App.xaml",
-              "RelativeToolTip": "BookRecognitionApp\\App.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-07T00:04:32.412Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomePage.xaml",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\HomePage.xaml",
-              "RelativeDocumentMoniker": "BookRecognitionApp\\Views\\HomePage.xaml",
-              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\HomePage.xaml",
-              "RelativeToolTip": "BookRecognitionApp\\Views\\HomePage.xaml",
-              "ViewState": "AgIAAB0AAAAAAAAAAADwvzgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-05T17:25:12.569Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ReviewsPageViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\ViewModels\\ReviewsPageViewModel.cs",
-              "RelativeDocumentMoniker": "BookRecognitionApp\\ViewModels\\ReviewsPageViewModel.cs",
-              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\ViewModels\\ReviewsPageViewModel.cs",
-              "RelativeToolTip": "BookRecognitionApp\\ViewModels\\ReviewsPageViewModel.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAE4AAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T17:46:13.073Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "BookRecognitionApp\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\MauiProgram.cs",
-              "RelativeToolTip": "BookRecognitionApp\\MauiProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T22:59:48.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CustomVisionService.cs",
               "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Services\\CustomVisionService.cs",
               "RelativeDocumentMoniker": "BookRecognitionApp\\Services\\CustomVisionService.cs",
               "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Services\\CustomVisionService.cs",
               "RelativeToolTip": "BookRecognitionApp\\Services\\CustomVisionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T02:02:53.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomePageViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\ViewModels\\HomePageViewModel.cs",
-              "RelativeDocumentMoniker": "BookRecognitionApp\\ViewModels\\HomePageViewModel.cs",
-              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\ViewModels\\HomePageViewModel.cs",
-              "RelativeToolTip": "BookRecognitionApp\\ViewModels\\HomePageViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "BookInfo.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Models\\BookInfo.cs",
+              "RelativeDocumentMoniker": "BookRecognitionApp\\Models\\BookInfo.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Models\\BookInfo.cs",
+              "RelativeToolTip": "BookRecognitionApp\\Models\\BookInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T23:22:15.687Z"
+              "WhenOpened": "2025-08-19T10:55:48.331Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ReviewsPage.xaml",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\ReviewsPage.xaml",
-              "RelativeDocumentMoniker": "BookRecognitionApp\\Views\\ReviewsPage.xaml",
-              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\ReviewsPage.xaml",
-              "RelativeToolTip": "BookRecognitionApp\\Views\\ReviewsPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "BookNewDetailsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\BookNewDetailsPage.xaml",
+              "RelativeDocumentMoniker": "BookRecognitionApp\\Views\\BookNewDetailsPage.xaml",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\BookNewDetailsPage.xaml",
+              "RelativeToolTip": "BookRecognitionApp\\Views\\BookNewDetailsPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswKQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-08T18:15:56.865Z"
+              "WhenOpened": "2024-11-05T14:10:12.391Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BookDetailPage.xaml",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\BookDetailPage.xaml",
-              "RelativeDocumentMoniker": "BookRecognitionApp\\Views\\BookDetailPage.xaml",
-              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\BookDetailPage.xaml",
-              "RelativeToolTip": "BookRecognitionApp\\Views\\BookDetailPage.xaml",
-              "ViewState": "AgIAAHkAAAAAAAAAAAAAAJsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-05T14:10:10.01Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ReviewService.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Services\\ReviewService.cs",
-              "RelativeDocumentMoniker": "BookRecognitionApp\\Services\\ReviewService.cs",
-              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Services\\ReviewService.cs",
-              "RelativeToolTip": "BookRecognitionApp\\Services\\ReviewService.cs",
-              "ViewState": "AgIAAOAAAAAAAAAAAAAUwOYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "BookDetailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\ViewModels\\BookDetailViewModel.cs",
+              "RelativeDocumentMoniker": "BookRecognitionApp\\ViewModels\\BookDetailViewModel.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\ViewModels\\BookDetailViewModel.cs",
+              "RelativeToolTip": "BookRecognitionApp\\ViewModels\\BookDetailViewModel.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAgwGEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T01:02:46.084Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "App.g.i.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "RelativeDocumentMoniker": "BookRecognitionApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "RelativeToolTip": "BookRecognitionApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAEoAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T23:28:38.28Z"
+              "WhenOpened": "2025-08-19T10:54:57.536Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -348,254 +221,260 @@
               "RelativeDocumentMoniker": "BookRecognitionApp\\Messages\\BookSelectedMessage.cs",
               "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Messages\\BookSelectedMessage.cs",
               "RelativeToolTip": "BookRecognitionApp\\Messages\\BookSelectedMessage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T12:45:08.521Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BookInfo.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Models\\BookInfo.cs",
-              "RelativeDocumentMoniker": "BookRecognitionApp\\Models\\BookInfo.cs",
-              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Models\\BookInfo.cs",
-              "RelativeToolTip": "BookRecognitionApp\\Models\\BookInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T01:37:19.007Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\AppShell.xaml.cs",
-              "RelativeDocumentMoniker": "BookRecognitionApp\\AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\AppShell.xaml.cs",
-              "RelativeToolTip": "BookRecognitionApp\\AppShell.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T17:11:05.536Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "BookService.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Services\\BookService.cs",
-              "RelativeDocumentMoniker": "BookRecognitionApp\\Services\\BookService.cs",
-              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Services\\BookService.cs",
-              "RelativeToolTip": "BookRecognitionApp\\Services\\BookService.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAmwFIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T14:10:46.71Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "BookNewDetailsPage.xaml",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\BookNewDetailsPage.xaml",
-              "RelativeDocumentMoniker": "BookRecognitionApp\\Views\\BookNewDetailsPage.xaml",
-              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\BookNewDetailsPage.xaml",
-              "RelativeToolTip": "BookRecognitionApp\\Views\\BookNewDetailsPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ0AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-05T14:10:12.391Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "BookReview.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Models\\BookReview.cs",
-              "RelativeDocumentMoniker": "BookRecognitionApp\\Models\\BookReview.cs",
-              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Models\\BookReview.cs",
-              "RelativeToolTip": "BookRecognitionApp\\Models\\BookReview.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T01:25:38.999Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "BookReviewDTO.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Models\\BookReviewDTO.cs",
-              "RelativeDocumentMoniker": "BookRecognitionApp\\Models\\BookReviewDTO.cs",
-              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Models\\BookReviewDTO.cs",
-              "RelativeToolTip": "BookRecognitionApp\\Models\\BookReviewDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T15:20:42.885Z"
+              "WhenOpened": "2025-08-18T22:29:57.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 12,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "BookRecognitionApp\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\MauiProgram.cs",
+              "RelativeToolTip": "BookRecognitionApp\\MauiProgram.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T22:59:48.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "BookNewDetailsPageViewModel.cs",
               "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\ViewModels\\BookNewDetailsPageViewModel.cs",
               "RelativeDocumentMoniker": "BookRecognitionApp\\ViewModels\\BookNewDetailsPageViewModel.cs",
               "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\ViewModels\\BookNewDetailsPageViewModel.cs",
               "RelativeToolTip": "BookRecognitionApp\\ViewModels\\BookNewDetailsPageViewModel.cs",
-              "ViewState": "AgIAAI8AAAAAAAAAAAAYwN8AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T17:33:53.451Z"
+              "WhenOpened": "2024-11-08T17:33:53.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookReview.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Models\\BookReview.cs",
+              "RelativeDocumentMoniker": "BookRecognitionApp\\Models\\BookReview.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Models\\BookReview.cs",
+              "RelativeToolTip": "BookRecognitionApp\\Models\\BookReview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T10:55:49.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReviewsPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\ViewModels\\ReviewsPageViewModel.cs",
+              "RelativeDocumentMoniker": "BookRecognitionApp\\ViewModels\\ReviewsPageViewModel.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\ViewModels\\ReviewsPageViewModel.cs",
+              "RelativeToolTip": "BookRecognitionApp\\ViewModels\\ReviewsPageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:46:13.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReviewAddedOrUpdatedMessage.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Messages\\ReviewAddedOrUpdatedMessage.cs",
+              "RelativeDocumentMoniker": "BookRecognitionApp\\Messages\\ReviewAddedOrUpdatedMessage.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Messages\\ReviewAddedOrUpdatedMessage.cs",
+              "RelativeToolTip": "BookRecognitionApp\\Messages\\ReviewAddedOrUpdatedMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T23:09:55.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SelectedReviewMessage.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Messages\\SelectedReviewMessage.cs",
+              "RelativeDocumentMoniker": "BookRecognitionApp\\Messages\\SelectedReviewMessage.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Messages\\SelectedReviewMessage.cs",
+              "RelativeToolTip": "BookRecognitionApp\\Messages\\SelectedReviewMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T14:25:34.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookDetailPage.xaml",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\BookDetailPage.xaml",
+              "RelativeDocumentMoniker": "BookRecognitionApp\\Views\\BookDetailPage.xaml",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\BookDetailPage.xaml",
+              "RelativeToolTip": "BookRecognitionApp\\Views\\BookDetailPage.xaml",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAswKIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T14:10:10.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReviewsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\ReviewsPage.xaml",
+              "RelativeDocumentMoniker": "BookRecognitionApp\\Views\\ReviewsPage.xaml",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\ReviewsPage.xaml",
+              "RelativeToolTip": "BookRecognitionApp\\Views\\ReviewsPage.xaml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAwEYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T18:15:56.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Services\\ReviewService.cs",
+              "RelativeDocumentMoniker": "BookRecognitionApp\\Services\\ReviewService.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Services\\ReviewService.cs",
+              "RelativeToolTip": "BookRecognitionApp\\Services\\ReviewService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T01:02:46.084Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "NewBookPageViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\ViewModels\\NewBookPageViewModel.cs",
-              "RelativeDocumentMoniker": "BookRecognitionApp\\ViewModels\\NewBookPageViewModel.cs",
-              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\ViewModels\\NewBookPageViewModel.cs",
-              "RelativeToolTip": "BookRecognitionApp\\ViewModels\\NewBookPageViewModel.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T17:33:52.402Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\App.xaml.cs",
-              "RelativeDocumentMoniker": "BookRecognitionApp\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\App.xaml.cs",
-              "RelativeToolTip": "BookRecognitionApp\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T00:04:30.26Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "INavigationService.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Services\\INavigationService.cs",
-              "RelativeDocumentMoniker": "BookRecognitionApp\\Services\\INavigationService.cs",
-              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Services\\INavigationService.cs",
-              "RelativeToolTip": "BookRecognitionApp\\Services\\INavigationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T10:51:34.758Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "NavigationDataService.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Services\\NavigationDataService.cs",
-              "RelativeDocumentMoniker": "BookRecognitionApp\\Services\\NavigationDataService.cs",
-              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Services\\NavigationDataService.cs",
-              "RelativeToolTip": "BookRecognitionApp\\Services\\NavigationDataService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T14:18:58.077Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "BookRecognitionApp\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\MainPage.xaml.cs",
-              "RelativeToolTip": "BookRecognitionApp\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T17:10:59.66Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "HomePage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\HomePage.xaml.cs",
-              "RelativeDocumentMoniker": "BookRecognitionApp\\Views\\HomePage.xaml.cs",
-              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\HomePage.xaml.cs",
-              "RelativeToolTip": "BookRecognitionApp\\Views\\HomePage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T17:25:11.507Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
               "Title": "NewBookPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\NewBookPage.xaml.cs",
               "RelativeDocumentMoniker": "BookRecognitionApp\\Views\\NewBookPage.xaml.cs",
               "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\NewBookPage.xaml.cs",
               "RelativeToolTip": "BookRecognitionApp\\Views\\NewBookPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T14:10:22.971Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "BookNewDetailsPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\BookNewDetailsPage.xaml.cs",
-              "RelativeDocumentMoniker": "BookRecognitionApp\\Views\\BookNewDetailsPage.xaml.cs",
-              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\BookNewDetailsPage.xaml.cs",
-              "RelativeToolTip": "BookRecognitionApp\\Views\\BookNewDetailsPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T14:10:35.521Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "NewBookPage.xaml",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\NewBookPage.xaml",
-              "RelativeDocumentMoniker": "BookRecognitionApp\\Views\\NewBookPage.xaml",
-              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\NewBookPage.xaml",
-              "RelativeToolTip": "BookRecognitionApp\\Views\\NewBookPage.xaml",
-              "ViewState": "AgIAAFAAAAAAAAAAAADwv2sAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-05T14:10:17.04Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "NavigationService.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Services\\NavigationService.cs",
-              "RelativeDocumentMoniker": "BookRecognitionApp\\Services\\NavigationService.cs",
-              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Services\\NavigationService.cs",
-              "RelativeToolTip": "BookRecognitionApp\\Services\\NavigationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T10:52:07.996Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "BookDetailPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\BookDetailPage.xaml.cs",
-              "RelativeDocumentMoniker": "BookRecognitionApp\\Views\\BookDetailPage.xaml.cs",
-              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\BookDetailPage.xaml.cs",
-              "RelativeToolTip": "BookRecognitionApp\\Views\\BookDetailPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T14:10:09Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "App.g.i.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\AppData\\Local\\SourceServer\\a0fa856b9f1725671368faaaf87aebe3e5b0aaf3f463dc1c2ce47fd71a6418aa\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\a0fa856b9f1725671368faaaf87aebe3e5b0aaf3f463dc1c2ce47fd71a6418aa\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "ToolTip": "C:\\Users\\kenzo\\AppData\\Local\\SourceServer\\a0fa856b9f1725671368faaaf87aebe3e5b0aaf3f463dc1c2ce47fd71a6418aa\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs [Read Only]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\a0fa856b9f1725671368faaaf87aebe3e5b0aaf3f463dc1c2ce47fd71a6418aa\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs [Read Only]",
-              "ViewState": "AgIAADsAAAAAAAAAAAAAwEoAAABEAAAAAQAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T12:05:44.521Z",
-              "EditorCaption": " [Read Only]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 21,
               "Title": "Microsoft.Maui.Resizetizer.After.targets",
               "DocumentMoniker": "C:\\Users\\kenzo\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.100\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.100\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
               "ToolTip": "C:\\Users\\kenzo\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.100\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.100\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
-              "ViewState": "AgIAAFwCAAAAAAAAAAAewL4BAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAvwNgBAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-08-05T10:54:06.824Z"
+              "WhenOpened": "2025-08-19T11:38:52.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 17,
+              "Title": "ReviewDeletedMessage.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Messages\\ReviewDeletedMessage.cs",
+              "RelativeDocumentMoniker": "BookRecognitionApp\\Messages\\ReviewDeletedMessage.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Messages\\ReviewDeletedMessage.cs",
+              "RelativeToolTip": "BookRecognitionApp\\Messages\\ReviewDeletedMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T22:30:33.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NewBookPage.xaml",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\NewBookPage.xaml",
+              "RelativeDocumentMoniker": "BookRecognitionApp\\Views\\NewBookPage.xaml",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\NewBookPage.xaml",
+              "RelativeToolTip": "BookRecognitionApp\\Views\\NewBookPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T14:10:17.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BookRecognitionApp\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Services\\BookService.cs",
+              "RelativeToolTip": "BookRecognitionApp\\Services\\BookService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAxwBoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:10:46.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NewBookPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\ViewModels\\NewBookPageViewModel.cs",
+              "RelativeDocumentMoniker": "BookRecognitionApp\\ViewModels\\NewBookPageViewModel.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\ViewModels\\NewBookPageViewModel.cs",
+              "RelativeToolTip": "BookRecognitionApp\\ViewModels\\NewBookPageViewModel.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAuwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:33:52.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomePageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\ViewModels\\HomePageViewModel.cs",
+              "RelativeDocumentMoniker": "BookRecognitionApp\\ViewModels\\HomePageViewModel.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\ViewModels\\HomePageViewModel.cs",
+              "RelativeToolTip": "BookRecognitionApp\\ViewModels\\HomePageViewModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T23:22:15.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\HomePage.xaml",
+              "RelativeDocumentMoniker": "BookRecognitionApp\\Views\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\HomePage.xaml",
+              "RelativeToolTip": "BookRecognitionApp\\Views\\HomePage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T17:25:12.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Navigation\\INavigationService.cs",
+              "RelativeDocumentMoniker": "BookRecognitionApp\\Navigation\\INavigationService.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Navigation\\INavigationService.cs",
+              "RelativeToolTip": "BookRecognitionApp\\Navigation\\INavigationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T22:17:00.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Navigation\\NavigationService.cs",
+              "RelativeDocumentMoniker": "BookRecognitionApp\\Navigation\\NavigationService.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Navigation\\NavigationService.cs",
+              "RelativeToolTip": "BookRecognitionApp\\Navigation\\NavigationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T22:18:08.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "BookRecognitionApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "BookRecognitionApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAiwEoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T23:28:38.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "dbo.BookReviews.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BookReviewsDb/True/SqlTable/dbo.BookReviews.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BookReviewsDb/True/SqlTable/dbo.BookReviews.sql",
@@ -604,7 +483,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 25,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "BookRecognitionApp\\Views\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\HomePage.xaml.cs",
+              "RelativeToolTip": "BookRecognitionApp\\Views\\HomePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:25:11.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "ReviewsPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\ReviewsPage.xaml.cs",
               "RelativeDocumentMoniker": "BookRecognitionApp\\Views\\ReviewsPage.xaml.cs",
@@ -616,7 +507,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 29,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "BookRecognitionApp\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\AppShell.xaml.cs",
+              "RelativeToolTip": "BookRecognitionApp\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:11:05.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "BookRecognitionApp\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\AppShell.xaml",
+              "RelativeToolTip": "BookRecognitionApp\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T17:11:06.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "BookRecognitionApp\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "BookRecognitionApp\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:10:59.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BookDetailPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\BookDetailPage.xaml.cs",
+              "RelativeDocumentMoniker": "BookRecognitionApp\\Views\\BookDetailPage.xaml.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\BookDetailPage.xaml.cs",
+              "RelativeToolTip": "BookRecognitionApp\\Views\\BookDetailPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:10:09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BookNewDetailsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\BookNewDetailsPage.xaml.cs",
+              "RelativeDocumentMoniker": "BookRecognitionApp\\Views\\BookNewDetailsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\Views\\BookNewDetailsPage.xaml.cs",
+              "RelativeToolTip": "BookRecognitionApp\\Views\\BookNewDetailsPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:10:35.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\MainPage.xaml",
               "RelativeDocumentMoniker": "BookRecognitionApp\\MainPage.xaml",
@@ -625,6 +576,30 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-05T17:10:58.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "BookRecognitionApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\App.xaml.cs",
+              "RelativeToolTip": "BookRecognitionApp\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T00:04:30.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\App.xaml",
+              "RelativeDocumentMoniker": "BookRecognitionApp\\App.xaml",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookRecognitionApp\\BookRecognitionApp\\App.xaml",
+              "RelativeToolTip": "BookRecognitionApp\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-07T00:04:32.412Z"
             }
           ]
         },

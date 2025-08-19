@@ -1,4 +1,6 @@
-﻿namespace BookRecognitionApp
+﻿using Microsoft.Maui.Controls;
+
+namespace BookRecognitionApp
 {
     public partial class App : Application
     {

@@ -1,31 +1,31 @@
 [
   {
-    "ContainingType": "BookReviewsApi.Controllers.BooksController",
-    "Method": "AddBookWithReview",
-    "RelativePath": "api/Books/AddWithReview",
+    "ContainingType": "BookReviewsApi.Controllers.BookReviewsController",
+    "Method": "AddReview",
+    "RelativePath": "api/BookReviews",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "dto",
-        "Type": "BookReviewDto",
+        "Name": "bookReview",
+        "Type": "BookReviewsApi.Models.BookReview",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "BookReviewsApi.Controllers.BooksController",
+    "ContainingType": "BookReviewsApi.Controllers.BookReviewsController",
     "Method": "GetAllReviews",
-    "RelativePath": "api/Books/Reviews",
+    "RelativePath": "api/BookReviews",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[ReviewDisplayDto, BookReviewsApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[BookReviewsApi.Models.BookReview, BookReviewsApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -36,9 +36,9 @@
     ]
   },
   {
-    "ContainingType": "BookReviewsApi.Controllers.BooksController",
+    "ContainingType": "BookReviewsApi.Controllers.BookReviewsController",
     "Method": "GetReview",
-    "RelativePath": "api/Books/Reviews/{id}",
+    "RelativePath": "api/BookReviews/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -62,9 +62,9 @@
     ]
   },
   {
-    "ContainingType": "BookReviewsApi.Controllers.BooksController",
+    "ContainingType": "BookReviewsApi.Controllers.BookReviewsController",
     "Method": "UpdateReview",
-    "RelativePath": "api/Books/Reviews/{id}",
+    "RelativePath": "api/BookReviews/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -83,9 +83,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "BookReviewsApi.Controllers.BooksController",
+    "ContainingType": "BookReviewsApi.Controllers.BookReviewsController",
     "Method": "DeleteReview",
-    "RelativePath": "api/Books/Reviews/{id}",
+    "RelativePath": "api/BookReviews/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,

@@ -1,27 +1,17 @@
-﻿using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
-
-namespace BookReviewsApi.Models
+﻿namespace BookReviewsApi.Models
 {
     public class BookReview
     {
+        // getters en setters hier
         public int Id { get; set; }
-
-        [Required]
+        public string Title { get; set; }
+        public string Author { get; set; }
+        public string Year { get; set; }
+        public string ISBN { get; set; }
+        public string CoverUrl { get; set; }
         public string Rating { get; set; }
-
-        [Required]
-        [StringLength(1000)]
         public string Review { get; set; }
-
-        [Required]
         public DateTime ReviewDate { get; set; }
-
-        // ✅ Foreign key naar Book
-        [ForeignKey("Book")]
-        public int BookId { get; set; }
-
-        // ✅ Navigatie-eigenschap
-        public Book Book { get; set; }
+        
     }
 }

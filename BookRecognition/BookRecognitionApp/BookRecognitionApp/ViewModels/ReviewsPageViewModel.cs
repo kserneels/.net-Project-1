@@ -1,143 +1,97 @@
-﻿//using BookRecognitionApp.Messages;
-//using CommunityToolkit.Mvvm.ComponentModel;
-//using CommunityToolkit.Mvvm.Input;
-//using CommunityToolkit.Mvvm.Messaging;
-//using System.Collections.ObjectModel;
-
-//namespace BookRecognitionApp.ViewModels
-//{
-//    public partial class ReviewsPageViewModel : ObservableObject
-//    {
-//        private readonly ReviewService _reviewService;
-//        private readonly INavigationService _navigationService;
-
-//        [ObservableProperty]
-//        private ObservableCollection<BookReview> reviews = new();
-
-//        public ReviewsPageViewModel(ReviewService reviewService, INavigationService navigationService)
-//        {
-//            _reviewService = reviewService;
-//            _navigationService = navigationService;
-//        }
-
-//        public ObservableCollection<ReviewDisplayDto> Reviews { get; set; } = new();
-
-//        public async Task LoadReviewsAsync()
-//        {
-//            try
-//            {
-//                var reviewList = await _reviewService.GetAllReviewsAsync();
-//                Reviews.Clear();
-//                foreach (var review in reviewList)
-//                {
-//                    Reviews.Add(review);
-//                }
-//            }
-//            catch (Exception ex)
-//            {
-//                Console.WriteLine($"❌ Error loading reviews: {ex.Message}");
-//            }
-//        }
-
-//        [RelayCommand]
-//        private async Task LoadReviewsAsync()
-//        {
-//            var reviewList = await _reviewService.GetAllReviewsAsync();
-//            if (reviewList == null) return;
-
-//            Reviews.Clear();
-
-//            foreach (var review in reviewList)
-//            {
-//                review.CoverUrl = string.IsNullOrEmpty(review.CoverUrl) || review.CoverUrl == "Resources/Images/no_cover.jpg"
-//                    ? "no_cover.jpg"
-//                    : review.CoverUrl;
-
-//                Reviews.Add(review);
-//            }
-//        }
-
-//        [RelayCommand]
-//        private async Task NavigateToDetailAsync(BookReview review)
-//        {
-//            if (review == null) return;
-
-//            WeakReferenceMessenger.Default.Send(new BookSelectedMessage(review));
-//            await _navigationService.NavigateToAsync("BookDetailPage");
-//        }
-
-//        [RelayCommand]
-//        private async Task GoBackAsync()
-//        {
-//            await _navigationService.NavigateToAsync("HomePage");
-//        }
-//    }
-//}
-
-
-//Hier boven vind je de oude code van ons eerste project, nu voor  of andere reden laden onze reviews niet meer
-//Kijk zeker eens naar de dto's en de backend-api want ik denk dat ik daar mee de fout heb.
-using BookRecognitionApp.Messages;
-using BookRecognitionApp.Models;
-using CommunityToolkit.Mvvm.ComponentModel;
-using CommunityToolkit.Mvvm.Input;
+﻿using BookRecognitionApp.Messages;
+using BookRecognitionApp.Navigation;
+using BookRecognitionApp.Views;
 using CommunityToolkit.Mvvm.Messaging;
 using System.Collections.ObjectModel;
+using System.ComponentModel;
+using System.Windows.Input;
 
-namespace BookRecognitionApp.ViewModels;
-
-public partial class ReviewsPageViewModel : ObservableObject
+namespace BookRecognitionApp.ViewModels
 {
-    private readonly ReviewService _reviewService;
-    private readonly INavigationService _navigationService;
-
-    public ReviewsPageViewModel(ReviewService reviewService, INavigationService navigationService)
+    public class ReviewsPageViewModel : INotifyPropertyChanged
     {
-        _reviewService = reviewService;
-        _navigationService = navigationService;
+        private readonly ReviewService _reviewService;
+        private readonly INavigationService _navigationService;
 
-        Task.Run(async () => await LoadReviewsAsync());
-    }
+        // ObservableCollection of reviews
+        public ObservableCollection<BookReview> Reviews { get; } = new ObservableCollection<BookReview>();
 
-    public ObservableCollection<ReviewDisplayDto> Reviews { get; set; } = new();
+        // Commands for navigation
+        public ICommand NavigateToDetailCommand { get; }
+        public ICommand BackCommand { get; }
 
-    [RelayCommand]
-    private async Task LoadReviewsAsync()
-    {
-        try
+        public ReviewsPageViewModel(ReviewService reviewService, INavigationService navigationService)
         {
-            var reviewList = await _reviewService.GetAllReviewsAsync();
-            if (reviewList == null) return;
+            _reviewService = reviewService;
+            _navigationService = navigationService;
 
-            Reviews.Clear();
+            // Command initialization
+            NavigateToDetailCommand = new Command<BookReview>(async (review) => await NavigateToDetailPageAsync(review));
+            BackCommand = new Command(async () => await GoBackAsync());
 
-            foreach (var review in reviewList)
+            // Subscribe to deletion messages
+            WeakReferenceMessenger.Default.Register<ReviewDeletedMessage>(this, (r, msg) =>
             {
-                review.CoverUrl = string.IsNullOrEmpty(review.CoverUrl) || review.CoverUrl == "Resources/Images/no_cover.jpg"
-                    ? "no_cover.jpg"
-                    : review.CoverUrl;
+                var reviewToRemove = Reviews.FirstOrDefault(x => x.Id == msg.Value);
+                if (reviewToRemove != null)
+                    Reviews.Remove(reviewToRemove);
+            });
 
-                Reviews.Add(review);
+            // Subscribe to page appearance event to load reviews
+            MessagingCenter.Subscribe<ReviewsPage>(this, "PageAppeared", async (sender) =>
+            {
+                await LoadReviewsAsync();
+            });
+        }
+
+        // Method to load reviews
+        public async Task LoadReviewsAsync()
+        {
+            var reviews = await _reviewService.GetAllReviewsAsync();
+
+            if (reviews != null)
+            {
+                Reviews.Clear();
+                foreach (var review in reviews)
+                {
+                    string coverImage = "no_cover.jpg"; // default image
+                    if (!string.IsNullOrEmpty(review.CoverUrl) && review.CoverUrl != "Resources/Images/no_cover.jpg")
+                        coverImage = review.CoverUrl;
+
+                    review.CoverUrl = coverImage;
+                    Reviews.Add(review);
+                }
             }
         }
-        catch (Exception ex)
+
+        // Navigation to detail page
+        private async Task NavigateToDetailPageAsync(BookReview review)
         {
-            Console.WriteLine($"❌ Error loading reviews: {ex.Message}");
+            if (review != null)
+            {
+                await _navigationService.GoToAsync(nameof(BookDetailPage), new Dictionary<string, object>
+        {
+            { "BookReview", review }
+        });
+            }
+        }
+
+
+
+
+        // Go back using navigation service
+        private Task GoBackAsync() =>
+            _navigationService.GoBackAsync();
+
+        public event PropertyChangedEventHandler PropertyChanged;
+
+        protected virtual void OnPropertyChanged(string propertyName)
+        {
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
     }
-
-    [RelayCommand]
-    private async Task NavigateToDetailAsync(ReviewDisplayDto review)
-    {
-        if (review == null) return;
-
-        WeakReferenceMessenger.Default.Send(new BookSelectedMessage(review));
-        await _navigationService.NavigateToAsync("BookDetailPage");
-    }
-
-    [RelayCommand]
-    private async Task GoBackAsync()
-    {
-        await _navigationService.NavigateToAsync("HomePage");
-    }
 }
+
+
+
+
