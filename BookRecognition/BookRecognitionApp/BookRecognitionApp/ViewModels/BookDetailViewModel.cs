@@ -17,7 +17,6 @@ namespace BookRecognitionApp.ViewModels
             _reviewService = reviewService;
         }
 
-        // The review being displayed/edited
         [ObservableProperty] private BookReview? bookReview;
 
         [ObservableProperty] private bool isEditing;
@@ -29,7 +28,6 @@ namespace BookRecognitionApp.ViewModels
         public bool IsNotEditing => !IsEditing;
         public string EditButtonText => IsEditing ? "Opslaan" : "Bewerken";
 
-        // Commands
         public IAsyncRelayCommand BackCommand => new AsyncRelayCommand(GoBackAsync);
         public IAsyncRelayCommand DeleteCommand => new AsyncRelayCommand(DeleteReviewAsync);
         public IAsyncRelayCommand EditCommand => new AsyncRelayCommand(EditOrSaveAsync);
@@ -50,7 +48,6 @@ namespace BookRecognitionApp.ViewModels
                 EditableReview = review.Review;
             }
         }
-
         private void StartEditing()
         {
             IsEditing = true;
@@ -96,7 +93,6 @@ namespace BookRecognitionApp.ViewModels
             {
                 await App.Current.MainPage.DisplayAlert("Success", "Review succesvol geüpdatet!", "OK");
 
-                // Broadcast update so other pages (e.g. review list) refresh
                 WeakReferenceMessenger.Default.Send(new ReviewAddedOrUpdatedMessage(updatedReview));
 
                 BookReview = updatedReview;
@@ -120,7 +116,6 @@ namespace BookRecognitionApp.ViewModels
             bool success = await _reviewService.DeleteReviewAsync(BookReview.Id);
             if (success)
             {
-                // Broadcast deletion so review list can update
                 WeakReferenceMessenger.Default.Send(new ReviewDeletedMessage(BookReview.Id));
                 await GoBackAsync();
             }

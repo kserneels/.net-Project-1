@@ -12,7 +12,7 @@ public class ReviewService
         _httpClient.Timeout = TimeSpan.FromSeconds(30);
     }
 
-    // Method to add a review
+
     public async Task<bool> AddReviewAsync(BookReview bookReview)
     {
         try
@@ -124,7 +124,7 @@ public class ReviewService
             Console.WriteLine($"Exception occurred while updating review: {ex.Message}");
         }
 
-        return null; // Als er iets misgaat, return null
+        return null;
     }
 
 
@@ -165,11 +165,9 @@ public class ReviewService
             Console.WriteLine($"Exception occurred while fetching review: {ex.Message}");
         }
 
-        return null; // Return null if something went wrong
+        return null;
     }
 
-
-    // Method to delete a review
     public async Task<bool> DeleteReviewAsync(int reviewId)
     {
         try
@@ -193,8 +191,6 @@ public class ReviewService
             return false;
         }
     }
-
-    // Helper method to log error responses
     private async Task LogErrorResponse(HttpResponseMessage response)
     {
         var errorResponse = await response.Content.ReadAsStringAsync();

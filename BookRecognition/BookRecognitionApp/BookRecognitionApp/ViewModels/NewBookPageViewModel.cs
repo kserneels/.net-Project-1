@@ -113,6 +113,5 @@ namespace BookRecognitionApp.ViewModels
             _navigationService.GoBackAsync();
     }
 
-    // Message class
     public record BookSelectedMessage(BookInfo BookInfo, BookReview BookReview);
 }

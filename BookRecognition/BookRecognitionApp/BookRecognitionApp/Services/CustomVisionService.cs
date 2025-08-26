@@ -8,7 +8,7 @@ public class CustomVisionService
     private readonly CustomVisionPredictionClient _customVisionClient;
     private readonly DocumentAnalysisClient _documentAnalysisClient;
 
-//Keys moeten hier komen
+    //Keys hier plakken
 
     public CustomVisionService()
     {

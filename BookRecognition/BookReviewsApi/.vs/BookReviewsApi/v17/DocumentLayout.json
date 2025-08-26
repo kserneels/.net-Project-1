@@ -1,42 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\moosv\\Documents\\Advanced .NET\\CHALLENGE\\.net-Project-1\\BookRecognition\\BookReviewsApi\\",
+  "WorkspaceRootPath": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookReviewsApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|c:\\users\\moosv\\documents\\advanced .net\\challenge\\.net-project-1\\bookrecognition\\bookreviewsapi\\bookreviewsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|solutionrelative:bookreviewsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookreviewsapi\\bookreviewsapi\\models\\bookreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|solutionrelative:bookreviewsapi\\models\\bookreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|c:\\users\\moosv\\documents\\advanced .net\\challenge\\.net-project-1\\bookrecognition\\bookreviewsapi\\bookreviewsapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|solutionrelative:bookreviewsapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|c:\\users\\moosv\\documents\\advanced .net\\challenge\\.net-project-1\\bookrecognition\\bookreviewsapi\\bookreviewsapi\\migrations\\20241105130253_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|solutionrelative:bookreviewsapi\\migrations\\20241105130253_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|c:\\users\\moosv\\documents\\advanced .net\\challenge\\.net-project-1\\bookrecognition\\bookreviewsapi\\bookreviewsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|solutionrelative:bookreviewsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|c:\\users\\moosv\\documents\\advanced .net\\challenge\\.net-project-1\\bookrecognition\\bookreviewsapi\\bookreviewsapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookreviewsapi\\bookreviewsapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|solutionrelative:bookreviewsapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|c:\\users\\moosv\\documents\\advanced .net\\challenge\\.net-project-1\\bookrecognition\\bookreviewsapi\\bookreviewsapi\\migrations\\20241107233514_isbnandcover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookreviewsapi\\bookreviewsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|solutionrelative:bookreviewsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookreviewsapi\\bookreviewsapi\\repository\\bookreviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|solutionrelative:bookreviewsapi\\repository\\bookreviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookreviewsapi\\bookreviewsapi\\repository\\ibookreviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|solutionrelative:bookreviewsapi\\repository\\ibookreviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookreviewsapi\\bookreviewsapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|solutionrelative:bookreviewsapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookreviewsapi\\bookreviewsapi\\migrations\\20241105130253_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|solutionrelative:bookreviewsapi\\migrations\\20241105130253_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookreviewsapi\\bookreviewsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|solutionrelative:bookreviewsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookreviewsapi\\bookreviewsapi\\migrations\\20241107233514_isbnandcover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|solutionrelative:bookreviewsapi\\migrations\\20241107233514_isbnandcover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|c:\\users\\moosv\\documents\\advanced .net\\challenge\\.net-project-1\\bookrecognition\\bookreviewsapi\\bookreviewsapi\\migrations\\20241107013017_newmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookreviewsapi\\bookreviewsapi\\migrations\\20241107013017_newmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|solutionrelative:bookreviewsapi\\migrations\\20241107013017_newmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|c:\\users\\moosv\\documents\\advanced .net\\challenge\\.net-project-1\\bookrecognition\\bookreviewsapi\\bookreviewsapi\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookreviewsapi\\bookreviewsapi\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|solutionrelative:bookreviewsapi\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|c:\\users\\moosv\\documents\\advanced .net\\challenge\\.net-project-1\\bookrecognition\\bookreviewsapi\\bookreviewsapi\\models\\bookreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|solutionrelative:bookreviewsapi\\models\\bookreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BookReviewsDb/True/SqlTable/dbo.BookReviews.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
@@ -45,11 +53,11 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BookReviewsDb/True/SqlTable/dbo.Reviews.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|c:\\users\\moosv\\documents\\advanced .net\\challenge\\.net-project-1\\bookrecognition\\bookreviewsapi\\bookreviewsapi\\bookreviewsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookreviewsapi\\bookreviewsapi\\bookreviewsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|solutionrelative:bookreviewsapi\\bookreviewsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|c:\\users\\moosv\\documents\\advanced .net\\challenge\\.net-project-1\\bookrecognition\\bookreviewsapi\\bookreviewsapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|c:\\users\\kenzo\\documents\\school 2024 - 2025\\dotnet-advanced\\.net-project-1\\bookrecognition\\bookreviewsapi\\bookreviewsapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9CA1BC2D-493E-40FF-8FDB-E88BC0105FF1}|BookReviewsApi\\BookReviewsApi.csproj|solutionrelative:bookreviewsapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -60,128 +68,156 @@
       "DocumentGroups": [
         {
           "DockedWidth": 87,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 11,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20241105130253_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\moosv\\Documents\\Advanced .NET\\CHALLENGE\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Migrations\\20241105130253_InitialCreate.cs",
-              "RelativeDocumentMoniker": "BookReviewsApi\\Migrations\\20241105130253_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\moosv\\Documents\\Advanced .NET\\CHALLENGE\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Migrations\\20241105130253_InitialCreate.cs",
-              "RelativeToolTip": "BookReviewsApi\\Migrations\\20241105130253_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T19:03:46.753Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\moosv\\Documents\\Advanced .NET\\CHALLENGE\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "BookReviewsApi\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\moosv\\Documents\\Advanced .NET\\CHALLENGE\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "BookReviewsApi\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "BookReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Repository\\BookReviewRepository.cs",
+              "RelativeDocumentMoniker": "BookReviewsApi\\Repository\\BookReviewRepository.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Repository\\BookReviewRepository.cs",
+              "RelativeToolTip": "BookReviewsApi\\Repository\\BookReviewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T15:43:40.794Z",
+              "WhenOpened": "2025-08-26T12:48:57.575Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "IBookReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Repository\\IBookReviewRepository.cs",
+              "RelativeDocumentMoniker": "BookReviewsApi\\Repository\\IBookReviewRepository.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Repository\\IBookReviewRepository.cs",
+              "RelativeToolTip": "BookReviewsApi\\Repository\\IBookReviewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T12:48:30.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241105130253_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Migrations\\20241105130253_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BookReviewsApi\\Migrations\\20241105130253_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Migrations\\20241105130253_InitialCreate.cs",
+              "RelativeToolTip": "BookReviewsApi\\Migrations\\20241105130253_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T19:03:46.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BookReviewsApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BookReviewsApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:43:40.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\moosv\\Documents\\Advanced .NET\\CHALLENGE\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Controllers\\BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "BookReviewsApi\\Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\moosv\\Documents\\Advanced .NET\\CHALLENGE\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Controllers\\BooksController.cs",
               "RelativeToolTip": "BookReviewsApi\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAswGoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T15:46:32.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\moosv\\Documents\\Advanced .NET\\CHALLENGE\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Program.cs",
               "RelativeDocumentMoniker": "BookReviewsApi\\Program.cs",
-              "ToolTip": "C:\\Users\\moosv\\Documents\\Advanced .NET\\CHALLENGE\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Program.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Program.cs",
               "RelativeToolTip": "BookReviewsApi\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAuwB0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T15:43:57.796Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "20241107233514_ISBNandCOVER.cs",
-              "DocumentMoniker": "C:\\Users\\moosv\\Documents\\Advanced .NET\\CHALLENGE\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Migrations\\20241107233514_ISBNandCOVER.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Migrations\\20241107233514_ISBNandCOVER.cs",
               "RelativeDocumentMoniker": "BookReviewsApi\\Migrations\\20241107233514_ISBNandCOVER.cs",
-              "ToolTip": "C:\\Users\\moosv\\Documents\\Advanced .NET\\CHALLENGE\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Migrations\\20241107233514_ISBNandCOVER.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Migrations\\20241107233514_ISBNandCOVER.cs",
               "RelativeToolTip": "BookReviewsApi\\Migrations\\20241107233514_ISBNandCOVER.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T18:55:52.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\moosv\\Documents\\Advanced .NET\\CHALLENGE\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\appsettings.json",
-              "RelativeDocumentMoniker": "BookReviewsApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\moosv\\Documents\\Advanced .NET\\CHALLENGE\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\appsettings.json",
-              "RelativeToolTip": "BookReviewsApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-01T15:44:25.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T18:55:52.136Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\moosv\\Documents\\Advanced .NET\\CHALLENGE\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "BookReviewsApi\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\moosv\\Documents\\Advanced .NET\\CHALLENGE\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "BookReviewsApi\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T18:55:43.371Z",
-              "EditorCaption": ""
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\appsettings.json",
+              "RelativeDocumentMoniker": "BookReviewsApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\appsettings.json",
+              "RelativeToolTip": "BookReviewsApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-01T15:44:25.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BookReviewsApi\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "BookReviewsApi\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:55:43.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "BookReview.cs",
-              "DocumentMoniker": "C:\\Users\\moosv\\Documents\\Advanced .NET\\CHALLENGE\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Models\\BookReview.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Models\\BookReview.cs",
               "RelativeDocumentMoniker": "BookReviewsApi\\Models\\BookReview.cs",
-              "ToolTip": "C:\\Users\\moosv\\Documents\\Advanced .NET\\CHALLENGE\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Models\\BookReview.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Models\\BookReview.cs",
               "RelativeToolTip": "BookReviewsApi\\Models\\BookReview.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAQAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwAcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T01:23:32.453Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "20241107013017_NewModel.cs",
-              "DocumentMoniker": "C:\\Users\\moosv\\Documents\\Advanced .NET\\CHALLENGE\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Migrations\\20241107013017_NewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Migrations\\20241107013017_NewModel.cs",
               "RelativeDocumentMoniker": "BookReviewsApi\\Migrations\\20241107013017_NewModel.cs",
-              "ToolTip": "C:\\Users\\moosv\\Documents\\Advanced .NET\\CHALLENGE\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Migrations\\20241107013017_NewModel.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\Migrations\\20241107013017_NewModel.cs",
               "RelativeToolTip": "BookReviewsApi\\Migrations\\20241107013017_NewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T01:30:17.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T01:30:17.519Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "dbo.Reviews.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BookReviewsDb/True/SqlTable/dbo.Reviews.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BookReviewsDb/True/SqlTable/dbo.Reviews.sql",
@@ -190,38 +226,60 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "dbo.BookReviews [Data]",
+              "DocumentIndex": 11,
+              "Title": "dbo.BookReviews.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BookReviewsDb/True/SqlTable/dbo.BookReviews.sql",
-              "ToolTip": "dbo.BookReviews [Data]",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BookReviewsDb/True/SqlTable/dbo.BookReviews.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2024-11-07T23:36:38.464Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\moosv\\Documents\\Advanced .NET\\CHALLENGE\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\appsettings.Development.json",
               "RelativeDocumentMoniker": "BookReviewsApi\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\moosv\\Documents\\Advanced .NET\\CHALLENGE\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\appsettings.Development.json",
               "RelativeToolTip": "BookReviewsApi\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-01T16:05:03.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T16:05:03.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "BookReviewsApi.csproj",
-              "DocumentMoniker": "C:\\Users\\moosv\\Documents\\Advanced .NET\\CHALLENGE\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\BookReviewsApi.csproj",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\BookReviewsApi.csproj",
               "RelativeDocumentMoniker": "BookReviewsApi\\BookReviewsApi.csproj",
-              "ToolTip": "C:\\Users\\moosv\\Documents\\Advanced .NET\\CHALLENGE\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\BookReviewsApi.csproj",
+              "ToolTip": "C:\\Users\\kenzo\\Documents\\school 2024 - 2025\\DotNet-Advanced\\.net-Project-1\\BookRecognition\\BookReviewsApi\\BookReviewsApi\\BookReviewsApi.csproj",
               "RelativeToolTip": "BookReviewsApi\\BookReviewsApi.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-01T15:43:55.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T15:43:55.769Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 313,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
             }
           ]
         }

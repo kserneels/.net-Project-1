@@ -41,16 +41,12 @@ namespace BookRecognitionApp.ViewModels
 
             AddReviewCommand = new AsyncRelayCommand(OnAddReviewAsync);
         }
-
-        // Called automatically when a BookSelectedMessage is received
         public void Receive(BookSelectedMessage message)
         {
             if (message == null) return;
 
-            // Set BookInfo
             BookInfo = message.BookInfo;
 
-            // Use message.BookReview if provided, else create new
             BookReview = message.BookReview ?? new BookReview
             {
                 Title = BookInfo.Title,
@@ -59,11 +55,9 @@ namespace BookRecognitionApp.ViewModels
                 ISBN = BookInfo.ISBN
             };
 
-            // Pre-fill Rating and Review
             Rating = BookReview.Rating;
             Review = BookReview.Review;
 
-            // 🔑 Notify UI that dependent properties changed
             OnPropertyChanged(nameof(Title));
             OnPropertyChanged(nameof(Author));
             OnPropertyChanged(nameof(Year));
@@ -75,7 +69,6 @@ namespace BookRecognitionApp.ViewModels
         {
             try
             {
-                // Ensure required fields are never null
                 BookReview.Title ??= BookInfo?.Title ?? "Unknown Title";
                 BookReview.Author ??= BookInfo?.Author ?? "Unknown Author";
                 BookReview.Year ??= BookInfo?.Year ?? "Unknown Year";

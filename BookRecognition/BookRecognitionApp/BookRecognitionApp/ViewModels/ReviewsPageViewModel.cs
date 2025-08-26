@@ -13,10 +13,8 @@ namespace BookRecognitionApp.ViewModels
         private readonly ReviewService _reviewService;
         private readonly INavigationService _navigationService;
 
-        // ObservableCollection of reviews
         public ObservableCollection<BookReview> Reviews { get; } = new ObservableCollection<BookReview>();
 
-        // Commands for navigation
         public ICommand NavigateToDetailCommand { get; }
         public ICommand BackCommand { get; }
 
@@ -25,11 +23,9 @@ namespace BookRecognitionApp.ViewModels
             _reviewService = reviewService;
             _navigationService = navigationService;
 
-            // Command initialization
             NavigateToDetailCommand = new Command<BookReview>(async (review) => await NavigateToDetailPageAsync(review));
             BackCommand = new Command(async () => await GoBackAsync());
 
-            // Subscribe to deletion messages
             WeakReferenceMessenger.Default.Register<ReviewDeletedMessage>(this, (r, msg) =>
             {
                 var reviewToRemove = Reviews.FirstOrDefault(x => x.Id == msg.Value);
@@ -37,14 +33,12 @@ namespace BookRecognitionApp.ViewModels
                     Reviews.Remove(reviewToRemove);
             });
 
-            // Subscribe to page appearance event to load reviews
             MessagingCenter.Subscribe<ReviewsPage>(this, "PageAppeared", async (sender) =>
             {
                 await LoadReviewsAsync();
             });
         }
 
-        // Method to load reviews
         public async Task LoadReviewsAsync()
         {
             var reviews = await _reviewService.GetAllReviewsAsync();
@@ -54,7 +48,7 @@ namespace BookRecognitionApp.ViewModels
                 Reviews.Clear();
                 foreach (var review in reviews)
                 {
-                    string coverImage = "no_cover.jpg"; // default image
+                    string coverImage = "no_cover.jpg";
                     if (!string.IsNullOrEmpty(review.CoverUrl) && review.CoverUrl != "Resources/Images/no_cover.jpg")
                         coverImage = review.CoverUrl;
 
@@ -64,7 +58,6 @@ namespace BookRecognitionApp.ViewModels
             }
         }
 
-        // Navigation to detail page
         private async Task NavigateToDetailPageAsync(BookReview review)
         {
             if (review != null)
@@ -75,11 +68,6 @@ namespace BookRecognitionApp.ViewModels
         });
             }
         }
-
-
-
-
-        // Go back using navigation service
         private Task GoBackAsync() =>
             _navigationService.GoBackAsync();
 

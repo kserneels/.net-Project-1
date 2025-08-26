@@ -1,7 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using BookReviewsApi.Data;
-using BookReviewsApi.Models;
-using Microsoft.EntityFrameworkCore;
+﻿using BookReviewsApi.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace BookReviewsApi.Controllers
 {
@@ -9,98 +7,65 @@ namespace BookReviewsApi.Controllers
     [Route("api/[controller]")]
     public class BookReviewsController : ControllerBase
     {
-        private readonly ApplicationDbContext _context;
+        private readonly IBookReviewRepository _repository;
 
-        public BookReviewsController(ApplicationDbContext context)
+        public BookReviewsController(IBookReviewRepository repository)
         {
-            _context = context;
+            _repository = repository;
         }
 
-        // POST: api/BookReviews
-        [HttpPost]
-        public async Task<IActionResult> AddReview([FromBody] BookReview bookReview)
-        {
-            if (bookReview == null || string.IsNullOrWhiteSpace(bookReview.Review))
-            {
-                return BadRequest("Invalid review data.");
-            }
-
-            // Set de review datum naar de current datum
-            bookReview.ReviewDate = DateTime.Now;
-
-            // Voeg de review toe aan de db
-            _context.BookReviews.Add(bookReview);
-            await _context.SaveChangesAsync();
-
-            return CreatedAtAction(nameof(GetReview), new { id = bookReview.Id }, bookReview);
-        }
-
-        // GET: api/BookReviews/5
-        [HttpGet("{id}")]
-        public async Task<ActionResult<BookReview>> GetReview(int id)
-        {
-            var review = await _context.BookReviews.FindAsync(id);
-
-            if (review == null)
-            {
-                return NotFound();
-            }
-
-            return Ok(review);
-        }
-
-        // GET: api/BookReviews
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<BookReview>>> GetAllReviews()
+        public async Task<IActionResult> GetAllReviews()
         {
-            var reviews = await _context.BookReviews.ToListAsync();
+            var reviews = await _repository.GetAllAsync();
             return Ok(reviews);
         }
 
-        // PUT: api/BookReviews/5
-        [HttpPut("{id}")]
-        public async Task<IActionResult> UpdateReview(int id, [FromBody] BookReview updatedReview)
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetReview(int id)
         {
-            if (id != updatedReview.Id || updatedReview == null || string.IsNullOrWhiteSpace(updatedReview.Review))
-            {
-                return BadRequest("Invalid review data.");
-            }
-
-            var existingReview = await _context.BookReviews.FindAsync(id);
-            if (existingReview == null)
-            {
-                return NotFound();
-            }
-
-            // Update de review fields
-            existingReview.Title = updatedReview.Title;
-            existingReview.Author = updatedReview.Author;
-            existingReview.Review = updatedReview.Review;
-            existingReview.Rating = updatedReview.Rating;
-            existingReview.ReviewDate = updatedReview.ReviewDate;
-
-            // Mark als modified
-            _context.Entry(existingReview).State = EntityState.Modified;
-
-            // Save changes to the database
-            await _context.SaveChangesAsync();
-
-            return Ok(existingReview);  // code 200
+            var review = await _repository.GetByIdAsync(id);
+            if (review == null) return NotFound();
+            return Ok(review);
         }
 
-        // DELETE: api/BookReviews/5
+        [HttpPost]
+        public async Task<IActionResult> AddReview([FromBody] BookReview review)
+        {
+            if (review == null || string.IsNullOrWhiteSpace(review.Review))
+                return BadRequest("Invalid review data.");
+
+            await _repository.AddAsync(review);
+            return CreatedAtAction(nameof(GetReview), new { id = review.Id }, review);
+        }
+
+        [HttpPut("{id}")]
+        public async Task<IActionResult> UpdateReview(int id, [FromBody] BookReview review)
+        {
+            if (id != review.Id) return BadRequest("Id mismatch");
+
+            var existing = await _repository.GetByIdAsync(id);
+            if (existing == null) return NotFound();
+
+            existing.Title = review.Title;
+            existing.Author = review.Author;
+            existing.ISBN = review.ISBN;
+            existing.CoverUrl = review.CoverUrl;
+            existing.Rating = review.Rating;
+            existing.Review = review.Review;
+            existing.ReviewDate = DateTime.Now;
+
+            await _repository.UpdateAsync(existing);
+            return Ok(existing);
+        }
+
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteReview(int id)
         {
-            var review = await _context.BookReviews.FindAsync(id);
-            if (review == null)
-            {
-                return NotFound();
-            }
+            var existing = await _repository.GetByIdAsync(id);
+            if (existing == null) return NotFound();
 
-            _context.BookReviews.Remove(review);
-            await _context.SaveChangesAsync();
-
+            await _repository.DeleteAsync(id);
             return NoContent();
         }
     }

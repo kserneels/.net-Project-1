@@ -30,249 +30,249 @@
     <AppXManifest Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-08-19T17:24:16.015</Modified>
+      <Modified>2025-08-26T12:52:54.493</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-08-19T17:24:15.782</Modified>
+      <Modified>2025-08-26T12:52:54.170</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\BookRecognitionApp.runtimeconfig.json">
       <PackagePath>BookRecognitionApp.runtimeconfig.json</PackagePath>
-      <Modified>2025-08-18T22:10:25.160</Modified>
+      <Modified>2025-08-26T12:52:53.867</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\BookRecognitionApp.dll">
       <PackagePath>BookRecognitionApp.dll</PackagePath>
-      <Modified>2025-08-19T17:24:14.453</Modified>
+      <Modified>2025-08-26T12:52:52.752</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>BookRecognitionApp.exe</PackagePath>
-      <Modified>2025-08-19T17:24:14.495</Modified>
+      <Modified>2025-08-26T12:52:52.768</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
-      <Modified>2025-08-05T09:35:00.000</Modified>
+      <Modified>2025-08-26T12:18:27.884</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2025-08-05T09:57:06.000</Modified>
+      <Modified>2025-08-26T12:19:36.837</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2025-08-05T09:57:06.000</Modified>
+      <Modified>2025-08-26T12:19:36.854</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2025-08-05T09:57:06.000</Modified>
+      <Modified>2025-08-26T12:19:36.875</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2025-08-05T09:57:06.000</Modified>
+      <Modified>2025-08-26T12:19:36.905</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2025-08-05T09:57:06.000</Modified>
+      <Modified>2025-08-26T12:19:37.015</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2025-08-05T09:35:00.000</Modified>
+      <Modified>2025-08-26T12:18:27.884</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
-      <Modified>2025-08-05T09:35:00.000</Modified>
+      <Modified>2025-08-26T12:18:27.884</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2025-08-18T22:09:50.108</Modified>
+      <Modified>2025-08-26T12:19:37.081</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.092</Modified>
+      <Modified>2025-08-26T12:19:37.071</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.092</Modified>
+      <Modified>2025-08-26T12:19:37.071</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.092</Modified>
+      <Modified>2025-08-26T12:19:37.070</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.092</Modified>
+      <Modified>2025-08-26T12:19:37.070</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.092</Modified>
+      <Modified>2025-08-26T12:19:37.070</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.102</Modified>
+      <Modified>2025-08-26T12:19:37.077</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.102</Modified>
+      <Modified>2025-08-26T12:19:37.077</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.102</Modified>
+      <Modified>2025-08-26T12:19:37.076</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.102</Modified>
+      <Modified>2025-08-26T12:19:37.077</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.102</Modified>
+      <Modified>2025-08-26T12:19:37.076</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.105</Modified>
+      <Modified>2025-08-26T12:19:37.078</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.105</Modified>
+      <Modified>2025-08-26T12:19:37.078</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.102</Modified>
+      <Modified>2025-08-26T12:19:37.077</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.105</Modified>
+      <Modified>2025-08-26T12:19:37.078</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.105</Modified>
+      <Modified>2025-08-26T12:19:37.078</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.108</Modified>
+      <Modified>2025-08-26T12:19:37.081</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.108</Modified>
+      <Modified>2025-08-26T12:19:37.081</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.108</Modified>
+      <Modified>2025-08-26T12:19:37.080</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.107</Modified>
+      <Modified>2025-08-26T12:19:37.080</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.107</Modified>
+      <Modified>2025-08-26T12:19:37.080</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.107</Modified>
+      <Modified>2025-08-26T12:19:37.080</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.106</Modified>
+      <Modified>2025-08-26T12:19:37.079</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.106</Modified>
+      <Modified>2025-08-26T12:19:37.079</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.106</Modified>
+      <Modified>2025-08-26T12:19:37.079</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.106</Modified>
+      <Modified>2025-08-26T12:19:37.079</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.099</Modified>
+      <Modified>2025-08-26T12:19:37.073</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.099</Modified>
+      <Modified>2025-08-26T12:19:37.073</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.099</Modified>
+      <Modified>2025-08-26T12:19:37.073</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.092</Modified>
+      <Modified>2025-08-26T12:19:37.073</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.092</Modified>
+      <Modified>2025-08-26T12:19:37.072</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.099</Modified>
+      <Modified>2025-08-26T12:19:37.075</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.099</Modified>
+      <Modified>2025-08-26T12:19:37.074</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.099</Modified>
+      <Modified>2025-08-26T12:19:37.074</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.099</Modified>
+      <Modified>2025-08-26T12:19:37.074</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.099</Modified>
+      <Modified>2025-08-26T12:19:37.074</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.102</Modified>
+      <Modified>2025-08-26T12:19:37.076</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.102</Modified>
+      <Modified>2025-08-26T12:19:37.076</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.102</Modified>
+      <Modified>2025-08-26T12:19:37.075</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.099</Modified>
+      <Modified>2025-08-26T12:19:37.075</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.099</Modified>
+      <Modified>2025-08-26T12:19:37.075</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.092</Modified>
+      <Modified>2025-08-26T12:19:37.072</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.092</Modified>
+      <Modified>2025-08-26T12:19:37.072</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.092</Modified>
+      <Modified>2025-08-26T12:19:37.072</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.092</Modified>
+      <Modified>2025-08-26T12:19:37.071</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2025-08-18T22:09:50.092</Modified>
+      <Modified>2025-08-26T12:19:37.071</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\no_cover.scale-100.jpg">
       <PackagePath>no_cover.scale-100.jpg</PackagePath>
-      <Modified>2025-08-18T22:09:50.092</Modified>
+      <Modified>2025-08-26T12:19:37.070</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\BookRecognitionApp.deps.json">
       <PackagePath>BookRecognitionApp.deps.json</PackagePath>
-      <Modified>2025-08-19T17:24:15.599</Modified>
+      <Modified>2025-08-26T12:52:53.852</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
