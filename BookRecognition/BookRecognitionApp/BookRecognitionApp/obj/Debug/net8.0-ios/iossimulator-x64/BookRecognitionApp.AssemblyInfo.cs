@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookRecognitionApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+0f36f396c805ca0f473ee0c07eab4a9a60cc4f4a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+1b5ba624459d29f6d01501f0b282488f631a1d53")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookRecognitionApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookRecognitionApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

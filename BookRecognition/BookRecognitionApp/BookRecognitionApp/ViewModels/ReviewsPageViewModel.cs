@@ -1,30 +1,32 @@
 ﻿using BookRecognitionApp.Messages;
 using BookRecognitionApp.Navigation;
 using BookRecognitionApp.Views;
+using CommunityToolkit.Mvvm.ComponentModel;
+using CommunityToolkit.Mvvm.Input;
 using CommunityToolkit.Mvvm.Messaging;
 using System.Collections.ObjectModel;
-using System.ComponentModel;
-using System.Windows.Input;
 
 namespace BookRecognitionApp.ViewModels
 {
-    public class ReviewsPageViewModel : INotifyPropertyChanged
+    public partial class ReviewsPageViewModel : ObservableObject
     {
         private readonly ReviewService _reviewService;
         private readonly INavigationService _navigationService;
 
         public ObservableCollection<BookReview> Reviews { get; } = new ObservableCollection<BookReview>();
 
-        public ICommand NavigateToDetailCommand { get; }
-        public ICommand BackCommand { get; }
+        public IAsyncRelayCommand<BookReview> NavigateToDetailCommand { get; }
+        public IAsyncRelayCommand BackCommand { get; }
+        public IAsyncRelayCommand LoadReviewsCommand { get; }
 
         public ReviewsPageViewModel(ReviewService reviewService, INavigationService navigationService)
         {
             _reviewService = reviewService;
             _navigationService = navigationService;
 
-            NavigateToDetailCommand = new Command<BookReview>(async (review) => await NavigateToDetailPageAsync(review));
-            BackCommand = new Command(async () => await GoBackAsync());
+            NavigateToDetailCommand = new AsyncRelayCommand<BookReview>(NavigateToDetailPageAsync);
+            BackCommand = new AsyncRelayCommand(GoBackAsync);
+            LoadReviewsCommand = new AsyncRelayCommand(LoadReviewsAsync);
 
             WeakReferenceMessenger.Default.Register<ReviewDeletedMessage>(this, (r, msg) =>
             {
@@ -33,28 +35,35 @@ namespace BookRecognitionApp.ViewModels
                     Reviews.Remove(reviewToRemove);
             });
 
-            MessagingCenter.Subscribe<ReviewsPage>(this, "PageAppeared", async (sender) =>
+            WeakReferenceMessenger.Default.Register<ReviewAddedOrUpdatedMessage>(this, (r, msg) =>
             {
-                await LoadReviewsAsync();
+                var existing = Reviews.FirstOrDefault(x => x.Id == msg.Value.Id);
+                if (existing != null)
+                {
+                    var index = Reviews.IndexOf(existing);
+                    Reviews[index] = msg.Value;
+                }
+                else
+                {
+                    Reviews.Add(msg.Value);
+                }
             });
+
+            _ = LoadReviewsAsync();
         }
 
-        public async Task LoadReviewsAsync()
+        private async Task LoadReviewsAsync()
         {
             var reviews = await _reviewService.GetAllReviewsAsync();
 
-            if (reviews != null)
+            Reviews.Clear();
+            foreach (var review in reviews)
             {
-                Reviews.Clear();
-                foreach (var review in reviews)
-                {
-                    string coverImage = "no_cover.jpg";
-                    if (!string.IsNullOrEmpty(review.CoverUrl) && review.CoverUrl != "Resources/Images/no_cover.jpg")
-                        coverImage = review.CoverUrl;
+                review.CoverUrl = string.IsNullOrEmpty(review.CoverUrl) || review.CoverUrl == "Resources/Images/no_cover.jpg"
+                    ? "no_cover.jpg"
+                    : review.CoverUrl;
 
-                    review.CoverUrl = coverImage;
-                    Reviews.Add(review);
-                }
+                Reviews.Add(review);
             }
         }
 
@@ -63,23 +72,12 @@ namespace BookRecognitionApp.ViewModels
             if (review != null)
             {
                 await _navigationService.GoToAsync(nameof(BookDetailPage), new Dictionary<string, object>
-        {
-            { "BookReview", review }
-        });
+                {
+                    { "SelectedReview", review }
+                });
             }
         }
-        private Task GoBackAsync() =>
-            _navigationService.GoBackAsync();
 
-        public event PropertyChangedEventHandler PropertyChanged;
-
-        protected virtual void OnPropertyChanged(string propertyName)
-        {
-            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
-        }
+        private Task GoBackAsync() => _navigationService.GoBackAsync();
     }
 }
-
-
-
-

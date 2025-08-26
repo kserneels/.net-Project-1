@@ -3,11 +3,8 @@
              xmlns:vm="clr-namespace:BookRecognitionApp.ViewModels"
              x:Class="BookRecognitionApp.Views.ReviewsPage"
              Shell.NavBarIsVisible="False"
-             Shell.FlyoutBehavior="Disabled">
-
-    <Shell.BackButtonBehavior>
-        <BackButtonBehavior IsEnabled="False" IsVisible="False"/>
-    </Shell.BackButtonBehavior>
+             Shell.FlyoutBehavior="Disabled"
+             x:Name="ReviewsPageRoot">
 
     <ContentPage.Background>
         <LinearGradientBrush>
@@ -16,39 +13,31 @@
         </LinearGradientBrush>
     </ContentPage.Background>
 
-    <!-- Wrap everything in a single StackLayout -->
     <StackLayout Padding="10">
 
-        <!-- Top Row with Back Button and Label in a Grid -->
         <Grid ColumnSpacing="0">
             <Grid.ColumnDefinitions>
-                <!-- Kolom voor de back-knop, krijgt een automatische breedte -->
                 <ColumnDefinition Width="Auto"/>
-
-                <!-- Kolom voor de label, neemt de resterende ruimte -->
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
 
-            <!-- Terug-knop aan de linkerkant -->
             <Button Text="Terug naar HomePagina"
-            FontSize="18"
-            BackgroundColor="#D32F2F"
-            TextColor="White"
-            HorizontalOptions="Start"
-            VerticalOptions="Center"
-            Command="{Binding BackCommand}" 
-            Grid.Column="0"/>
+                    FontSize="18"
+                    BackgroundColor="#D32F2F"
+                    TextColor="White"
+                    HorizontalOptions="Start"
+                    VerticalOptions="Center"
+                    Command="{Binding BackCommand}" 
+                    Grid.Column="0"/>
 
-            <!-- Centraal geplaatste label -->
             <Label Text="Mijn boek reviews"
-           TextColor="#3b5998"
-           FontSize="40"
-           HorizontalOptions="CenterAndExpand" 
-                VerticalOptions="Center"
-           Grid.Column="1"/>
+                   TextColor="#3b5998"
+                   FontSize="40"
+                   HorizontalOptions="CenterAndExpand" 
+                   VerticalOptions="Center"
+                   Grid.Column="1"/>
         </Grid>
 
-        <!-- CollectionView for displaying reviews -->
         <CollectionView ItemsSource="{Binding Reviews}">
             <CollectionView.ItemsLayout>
                 <GridItemsLayout Orientation="Vertical" 
@@ -63,7 +52,7 @@
                            HasShadow="True"
                            Margin="5">
                         <Frame.GestureRecognizers>
-                            <TapGestureRecognizer Command="{Binding Source={RelativeSource AncestorType={x:Type vm:ReviewsPageViewModel}}, Path=NavigateToDetailCommand}"
+                            <TapGestureRecognizer Command="{Binding BindingContext.NavigateToDetailCommand, Source={x:Reference ReviewsPageRoot}}"
                                                   CommandParameter="{Binding .}" />
                         </Frame.GestureRecognizers>
                         <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
@@ -72,7 +61,6 @@
                                        Aspect="AspectFill"
                                        HorizontalOptions="FillAndExpand"
                                        VerticalOptions="FillAndExpand" />
-
                             </Grid>
                             <Label Text="{Binding Title}" 
                                    FontSize="22" 

@@ -1,5 +1,4 @@
 using BookRecognitionApp.ViewModels;
-using Microsoft.Maui.Controls;
 
 namespace BookRecognitionApp.Views
 {
@@ -9,12 +8,6 @@ namespace BookRecognitionApp.Views
         {
             InitializeComponent();
             BindingContext = viewModel;
-        }
-
-        protected override void OnAppearing()
-        {
-            base.OnAppearing();
-            MessagingCenter.Send(this, "PageAppeared");
         }
     }
 }

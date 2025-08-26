@@ -1,4 +1,5 @@
 ﻿using BookRecognitionApp.Messages;
+using BookRecognitionApp.Navigation;
 using BookRecognitionApp.Views;
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
@@ -10,6 +11,7 @@ namespace BookRecognitionApp.ViewModels
     public partial class BookNewDetailsPageViewModel : ObservableObject, IRecipient<BookSelectedMessage>
     {
         private readonly ReviewService _reviewService;
+        private readonly INavigationService _navigationService;
         private readonly ILogger<BookNewDetailsPageViewModel> _logger;
 
         [ObservableProperty] private BookInfo bookInfo;
@@ -30,10 +32,12 @@ namespace BookRecognitionApp.ViewModels
 
         public BookNewDetailsPageViewModel(
             ReviewService reviewService,
+            INavigationService navigationService,
             IMessenger messenger,
             ILogger<BookNewDetailsPageViewModel> logger)
         {
             _reviewService = reviewService;
+            _navigationService = navigationService;
             _logger = logger;
 
             messenger.Register<BookSelectedMessage>(this);
@@ -41,6 +45,7 @@ namespace BookRecognitionApp.ViewModels
 
             AddReviewCommand = new AsyncRelayCommand(OnAddReviewAsync);
         }
+
         public void Receive(BookSelectedMessage message)
         {
             if (message == null) return;
@@ -94,7 +99,7 @@ namespace BookRecognitionApp.ViewModels
                         if (existingReview != null)
                         {
                             _logger.LogInformation("📖 Navigating to existing review for ISBN {ISBN}", existingReview.ISBN);
-                            await Shell.Current.GoToAsync($"{nameof(BookDetailPage)}", true, new Dictionary<string, object>
+                            await _navigationService.GoToAsync(nameof(BookDetailPage), new Dictionary<string, object>
                             {
                                 ["SelectedReview"] = existingReview
                             });
@@ -103,7 +108,7 @@ namespace BookRecognitionApp.ViewModels
                     else
                     {
                         _logger.LogInformation("🏠 User chose not to edit, returning to HomePage");
-                        await Shell.Current.GoToAsync("///HomePage");
+                        await _navigationService.GoToAsync("///HomePage");
                     }
                     return;
                 }
@@ -115,7 +120,7 @@ namespace BookRecognitionApp.ViewModels
                     _logger.LogInformation("✅ Review for ISBN {ISBN} added successfully", BookReview.ISBN);
                     WeakReferenceMessenger.Default.Send(new ReviewAddedOrUpdatedMessage(BookReview));
                     await App.Current.MainPage.DisplayAlert("Succes", "Je recensie is ingediend.", "OK");
-                    await Shell.Current.GoToAsync("///HomePage");
+                    await _navigationService.GoToAsync("///HomePage");
                 }
                 else
                 {

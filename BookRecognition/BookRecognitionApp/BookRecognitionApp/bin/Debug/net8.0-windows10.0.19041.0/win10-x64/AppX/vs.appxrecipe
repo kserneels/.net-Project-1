@@ -30,7 +30,7 @@
     <AppXManifest Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-08-26T12:52:54.493</Modified>
+      <Modified>2025-08-26T15:20:04.271</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\BookRecognitionApp.dll">
       <PackagePath>BookRecognitionApp.dll</PackagePath>
-      <Modified>2025-08-26T12:52:52.752</Modified>
+      <Modified>2025-08-26T15:20:03.862</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>BookRecognitionApp.exe</PackagePath>
-      <Modified>2025-08-26T12:52:52.768</Modified>
+      <Modified>2025-08-26T15:20:03.866</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenzo\Documents\school 2024 - 2025\DotNet-Advanced\.net-Project-1\BookRecognition\BookRecognitionApp\BookRecognitionApp\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>

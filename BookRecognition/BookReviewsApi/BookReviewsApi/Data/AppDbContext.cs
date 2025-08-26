@@ -1,5 +1,5 @@
 ﻿using BookReviewsApi.Models;
-using Microsoft.EntityFrameworkCore;  // Ensure you're using the BookReview model
+using Microsoft.EntityFrameworkCore;
 
 namespace BookReviewsApi.Data
 {
@@ -7,7 +7,6 @@ namespace BookReviewsApi.Data
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options) { }
 
-        // enkel deze DbSet is nodig
         public DbSet<BookReview> BookReviews { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
